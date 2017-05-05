@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/ticket_id"
+        android:background="#eeeeee"
+        android:textStyle="bold"
+        android:gravity="center_vertical"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/info_ticketId"
+        android:text="12312312"
+        android:gravity="center" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/ticket_type"
+        android:background="#eeeeee"
+        android:textStyle="bold"
+        android:gravity="center_vertical"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/info_ticketType"
+        android:text="bus"
+        android:gravity="center" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/name"
+        android:background="#eeeeee"
+        android:textStyle="bold"
+        android:gravity="center_vertical" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/info_userName"
+        android:text="Fran Beltri"
+        android:gravity="center" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/hour"
+        android:background="#eeeeee"
+        android:textStyle="bold"
+        android:gravity="center_vertical" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:id="@+id/info_hora"
+        android:text="01:45:21"
+        android:gravity="center" />
+
+</LinearLayout>

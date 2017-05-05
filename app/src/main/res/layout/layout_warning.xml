@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+        <android.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"/>
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:id="@+id/iMode"
+            android:src="@drawable/bb_party_black_big"
+            android:scaleX="0.9"
+            android:scaleY="0.9"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="3"
+            android:id="@+id/textSpace"
+            android:textStyle="bold"
+            android:text="10/100"
+            android:layout_gravity="center"
+            android:gravity="center_vertical|center_horizontal" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.8"
+            android:background="@drawable/anim_button_info"
+            android:id="@+id/bInfo"
+            android:scaleY="0.8"
+            android:scaleX="0.9"/>
+
+        <android.widget.Space
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="0.1"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:background="#eeeeee">
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:id="@+id/image"
+        android:background="@drawable/accepted"
+        android:layout_weight="4"
+        android:adjustViewBounds="false"
+        android:baselineAlignBottom="false" />
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1"
+        android:background="#eeeeee">
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="TicketInfo"
+        android:id="@+id/tTicketId"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:background="#eeeeee"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1">
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="horizontal">
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="2.5"
+            android:background="@drawable/anim_button_qr"
+            android:id="@+id/bBack"
+            android:scaleX="0.9"
+            android:scaleY="0.9"/>
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.1">
+    </LinearLayout>
+
+</LinearLayout>

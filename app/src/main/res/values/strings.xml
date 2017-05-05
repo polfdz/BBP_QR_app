@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">BBP_QR</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">QR Entrada</string>
+    <string name="autocar1">QR Autocar 00:30</string>
+    <string name="autocar2">QR Autocar 01:45</string>
+
+    <string name="scan_only_qr_codes">Scan only QR Codes</string>
+    <string name="info">Ticket info</string>
+    <string name="ok">OK</string>
+
+    <string name="contact">Contactar amb tècnic</string>
+    <string name="not_accepted">Ticket NO vàlid per BBP</string>
+    <string name="accepted">OK</string>
+    <string name="ticket_in">Ticket ja registrat</string>
+    <string name="bus1_accepted">OK</string>
+    <string name="bus2_accepted">OK</string>
+    <string name="bus1_wrong_bus">AUTOCAR ERRONI! Ticket per autocar 01:45!</string>
+    <string name="bus2_wrong_bus">AUTOCAR ERRONI! Ticket per autocar 00:30!</string>
+
+
+    <string name="bus_rejected">Ticket BBParty. NO vàlid per autocar</string>
+    <string name="internet_error">Error internet, TORNAR A ESCANEJAR!</string>
+    <string name="escaner_error">Error escanejant, TORNAR A ESCANEJAR!</string>
+    <string name="internet_error_info">No tens internet!</string>
+
+    <string name="ticket_id">\u0020 TICKET ID</string>
+    <string name="ticket_type">\u0020 TIPUS</string>
+    <string name="name">\u0020 NOM COMPRADOR</string>
+    <string name="hour">\u0020 HORA ENTRADA / VALIDESA</string>
+    <string name="not_scaner_warning">Not valid scaner option</string>
+    <string name="entrada1">NORMAL</string>
+    <string name="entrada2">BUS 00:30</string>
+    <string name="entrada3">BUS 01:45</string>
+    <string name="validateTicket">Validant ticket</string>
+
+    <string name="nome">\u0020 Usuari</string>
+    <string name="password">\u0020 Contrasenya</string>
+    <string name="login">Login</string>
+    <string name="deleted">Ticket cancelat!</string>
+    <string name="nobbp">Ticket no registrat.</string>
+    <string name="sendingMessage">Enviant email.</string>
+    <string name="pleaseWait">Siusplau espera...</string>
+    <string name="correuEnviat">Correu Enviat!</string>
+    <string name="mailBody">Hola!\n\n Com que no vas venir a buscar la teva entrada, t\'avisem que la teva reserva ha quedat anul·lada.\nSi encara tens ganes de venir a la festa, podràs tornar a fer una reserva des de la nostra web www.bigbangparty2017.com.\nAnunciarem els dies i horaris per realitzar noves solicituds a través de les nostres xarxes socials.\n\nMoltes gràcies,\n\nBig Bang Grup.</string>
+    <string name="mailSubject">[CANCELACIÓ] Big Bang Party 2017</string>
+    <string name="adminWarning">Panel de cancelació d\'entrades.\nUn cop llegit el codi QR s\'eliminarà la entrada i s\'enviarà un correu a la persona corresponent.\nAquesta entrada ja no serà vàlida per la BBP.</string>
+
+    validateTicket
+</resources>

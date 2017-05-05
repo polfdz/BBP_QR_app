@@ -1,0 +1,900 @@
+Nivell 1:
+
+    tema: XXX					pregunta: CARA PIGADA... cara estimada											alternatives: cara bruta, noia pèl-roja, cara girada, cara assolellada
+	tema: XXX					pregunta: AL POT PETIT... hi ha la bona confitura								alternatives: hi ha la mel, hi cap tot, hi ha l'oli, hi ha la sal
+	tema: XXX					pregunta: MÉS VAL PREVENIR... que curar											alternatives: que no fer, que córrer, que lluitar, que marxar
+	tema: XXX					pregunta: ABANS S’ATRAPA UN MENTIDER... que un coix								alternatives: que un lladre, que un malalt, que una tortuga, que un vailet
+	tema: XXX					pregunta: EL QUE NO MATA... engreixa											alternatives: es menja, cura, alimenta, va al fetge
+	tema: XXX					pregunta: EL MILLOR CONSELLER... és el coixí									alternatives: és un amic, és el veï, és el sofà, és l'avi
+	tema: XXX					pregunta: A LA TAULA I AL LLIT... al primer crit								alternatives: a les deu de la nit, s'hi va tot seguit, al tercer crit, hi vas si ets ric
+	tema: XXX					pregunta: QUI FA EL QUE POT... no està obligat a més							alternatives: fa de més, no cal que s'esforci més, val per molt,és adorat
+	tema: XXX					pregunta: DINER, MAL... conseller												alternatives: pel tresorer, llaminer, amic, de molts
+	tema: XXX					pregunta: DE MICA EN MICA... s’omple la pica									alternatives: s'omple la cartera, ens tornem pobres, ens fem vells, s'omple la bossa
+	tema: XXX					pregunta: SALUT I FORÇA... al canut												alternatives: menut, Barça!, al braç, diners
+	tema: XXX					pregunta: QUI CANTA... els seus mals espanta									alternatives: fa ploure, els altres espanta, també balla, la geganta!
+	tema: XXX					pregunta: QUI TÉ BOCA... s’equivoca												alternatives: menja coca, atabala, enraona, s'enamora
+	tema: XXX					pregunta: QUI NO PLORA... no mama												alternatives: no aconsegueix res, no es humà, no s'ha fet mal, és valent
+	tema: XXX					pregunta: PREGUNTANT... s'arriba a Roma											alternatives: es coneix la gent, t'acabes barallant, fas saviesa, trobes respostes
+	tema: XXX					pregunta: A L’ESTIU... tota cuca viu											alternatives: surt la perdiu, tots fora del niu, no es treballa, festa per un tub
+	tema: XXX					pregunta: AQUÍ PAU, I DESPRÉS... glòria											alternatives: guerra, tots amics, joia, tots enemics
+	tema: XXX					pregunta: QUI RIU ÚLTIM... riu millor											alternatives: riu pitjor, és lent, no té amics, riu més alt
+	tema: XXX					pregunta: PER NADAL... cada ovella al seu corral  								alternatives: torrons i neules, tot s'hi val, cada conill al seu corral, es mata un pardal
+	tema: XXX					pregunta: CANTANT, CANTANT... les penes se’n van								alternatives: la gent s'entén, es fan tempestes, les alegries se'n van, es fa Nadal
+	tema: XXX					pregunta: HOME PREVINGUT... val per dos											alternatives: home poruc, val per tres, val per quatre, home cregut
+	tema: XXX					pregunta: QUI JUGA AMB FOC... es crema											alternatives: no juga amb aigua, es mareja, és atrevit, no és savi 
+	tema: XXX					pregunta: ELS CATALANS, DE LES PEDRES... en fem pans							alternatives: en fem diners, en fem rams, en treiem grans, en fem cases
+	tema: XXX					pregunta: ANY NOU... vida nova													alternatives: festa assegurada, casa nova, calçotets vermells, dona nova
+	tema: XXX					pregunta: DESPRÉS DE LA TEMPESTA... ve la calma									alternatives: ve el sol, no surtis de casa, fes festa, no esperis calma
+	tema: XXX					pregunta: LA CURIOSITAT VA MATAR... el gat										alternatives: el gos, el curiós, la perdiu, el lladre
+	tema: XXX					pregunta: QUI PAGA... mana														alternatives: compra, té diners, presumeix, regala
+	tema: XXX					pregunta: MENTRE HI HA VIDA... hi ha esperança									alternatives: hi ha humans, hi ha amor, hi ha guerra, disfruta
+	tema: XXX					pregunta: A MAL TEMPS... bona cara												alternatives: bons pans, mala cara, bona llana, mal remei
+	tema: XXX					pregunta: COM MÉS SEREM... més riurem											alternatives: menys hi cabrem, més viurem, més parlarem, més menjarem
+	tema: XXX					pregunta: QUI DIA PASSA... any empeny											alternatives: any estreny, dia empeny, dia veu, dia viu
+	tema: XXX					pregunta: PAGANT... Sant Pere canta												alternatives: s'arriba a Roma, Sant Ramon canta, la gent s'entén, les penes se'n van
+	tema: XXX					pregunta: DOS NO ES BARALLEN... si un no vol									alternatives: si un no comença, si són amics, si estan sols, si no parlen
+	tema: XXX					pregunta: QUI NO CORRE... vola													alternatives: camina, neda, va amb bicicleta, es perquè no pot o no vol
+	tema: XXX					pregunta: SANT JORDI MATA... l’aranya											alternatives: el gat, la princesa, la perdiu, la rosa
+	tema: XXX					pregunta: RECTIFICAR... és de savis												alternatives: és de cobards, és ajudar, val la pena, vol dir arreglar
+	tema: XXX					pregunta: L'HOME ÉS L'ÚNIC ANIMAL...  que ensopega dos cops en la mateixa pedra	alternatives: que menja carn, que salta pedres, que camina dret, que val per dos
+	tema: XXX					pregunta: ELS JUSTOS... van al cel												alternatives: van a l'infern, són pecadors, cauen del cel, fan arbustos
+	tema: XXX					pregunta: QUI AVISA... no és traïdor											alternatives: empeny, és amic, no corre, és traïdor
+	tema: XXX					pregunta: A GRANS MALS... grans remeis											alternatives: gans pans, grans venjances, bones són pedres, grans rivals
+	tema: XXX					pregunta: GENI I FIGURA... fins a la sepultura									alternatives: fins demà, si no simula, fins l'oblit, no cal sepultura
+	tema: XXX					pregunta: NO HI HA DOS... sense tres											alternatives: sense un, sense quatre, enemics, sense cinc
+	tema: XXX					pregunta: A LA TERCERA... va la vençuda											alternatives: ni ho intentis, tot s'hi val, val per dos, i a la quarta
+	tema: XXX					pregunta: PARLANT, LA GENT... s’entén											alternatives: empipa, no s'entén, busca brega, arriba a Roma
+	tema: XXX					pregunta: A POC A POC... i bona lletra											alternatives: i fent camí, les penes se'n van, i després ràpid, i vigilant
+	tema: XXX					pregunta: QUI LA FA... la paga													alternatives: se la queda, la busca, la demana, no la compra
+	tema: XXX					pregunta: DESPRÉS D’UNA PUJADA... ve una baixada									alternatives: descansa, vénen dues baixades, més pujada, cap baixada
+	tema: XXX					pregunta: ES DIU EL PECAT... però no el pecador									alternatives: i el pecador, si se sap el pecador, i l'engany, i es dóna la cara
+	tema: XXX					pregunta: MILLOR SOL... que mal acompanyat										alternatives: que amb amics, que empipat, que amb un mussol, que enfadat
+----------
+
+Nivell 2:
+
+	tema: XXX					pregunta: EL SOL SURT... per a tothom								alternatives: pel nord, pel sud, massa tard, a l'horitzó
+	tema: XXX					pregunta: LA UNIÓ... fa la força									alternatives: fa els amics, fa l'enemic, com més lluny millor, fa por
+	tema: XXX					pregunta: MÉS VAL TARD... que mai									alternatives: que d'hora, que aviat, que pel matí, que per la nit
+	tema: XXX					pregunta: MÉS VAL POC I BO QUE NO... molt i dolent					alternatives: poc i dolent, molt i bo, molt i salat, molt i dolç 
+	tema: XXX					pregunta: TAL DIT... tal fet										alternatives: tal peu, tal fill, tal filla, tal mà
+	tema: XXX					pregunta: QUAN UNS RIUEN... els altres ploren						alternatives: tots ploren, tots riuen, ningú plora, ningú s'enfada
+	tema: XXX					pregunta: MAI PLOU... a gust de tothom								alternatives: pel matí, a Salou, a la muntanya, a bots i barrals
+	tema: XXX					pregunta: MÉS VAL MANYA... que força								alternatives: que muntanya, que saviesa, que correr, que fugir
+	tema: XXX					pregunta: SI LA MUNTANYA NO VA A MAHOMA... Mahoma va a la muntanya	alternatives: ningú més hi va, Mahoma no hi va, Mahoma va a la platja, Mahoma va a la ciutat
+	tema: XXX					pregunta: DE LA TERRA VENIM... i a la terra tornem					alternatives: i de la terra mengem, i a la terra seiem, i a la terra caminem, i a la terra hi plou
+	tema: XXX					pregunta: UN CLAU TREU...  un altre clau							alternatives: dos claus, tres claus, el mal de cap, el cap per la paret
+	tema: XXX					pregunta: SI L’ENCERTO... l’endevino								alternatives: no la fallo, la regalo, anoto, marcaré gol
+	tema: XXX					pregunta: AL JUNY... la falç al puny								alternatives: tot ben lluny, l'escut al puny, el guant al puny, el pinzell al puny
+	tema: XXX					pregunta: CADASCÚ A CASA SEVA... i Déu a la de tots			    	alternatives: i Déu a la seva, i Déu a la de ningú, i tothom més tranquil, i ningú al carrer
+	tema: XXX					pregunta: PER CARNAVAL... tot s’hi val								alternatives: res s'hi val, bon vi, festa grossa, toca el timbal
+	tema: XXX					pregunta: BÓTA DOLENTA... no fa bon vi								alternatives: bóta bona, no fa bon cava, no fa estiu, no la vol ningú
+	tema: XXX					pregunta: AFORTUNAT EN EL JOC... desgraciat en amors				alternatives: desgraciat en estudis, desgraciat treballant, afortunat en amics, afortunat en el joc 
+	tema: XXX					pregunta: NO FA TRUITES... qui ous no trenca						alternatives: qui no té gallines, qui no té un plat, qui plats no trenca, qui a gallines no roba 
+	tema: XXX					pregunta: LA NIT DE SANT JOAN... la més curta de l’any				alternatives: la més llarga de l'any, la més calorosa de l'any, la més freda de l'any, festa i coca
+	tema: XXX					pregunta: ON HI HA PÈL... hi ha alegria								alternatives: hi ha cabell, hi ha un home, hi ha tristor, hi ha suor
+	tema: XXX					pregunta: AL PA, PA I al vi... vi									alternatives: aigua, vine aquí, més pa, verí
+	tema: XXX					pregunta: DEL PORC... s’aprofita tot								alternatives: se'n fan llonganisses, se'n fan truites, es llença tot, tot és grassa
+	tema: XXX					pregunta: NINGÚ NEIX... ensenyat									alternatives: peix, enfadat, content, assegut
+	tema: XXX					pregunta: DE DESAGRAÏTS... l’infern n’és ple						alternatives: n'hi ha pocs, el cel n'és ple, la presó n'és plena,l'escola n'és plena
+	tema: XXX					pregunta: SEMPRE PLOU... sobre mullat								alternatives: pel matí, per la nit, sobre sec, sobre brut
+	tema: XXX					pregunta: TANT ESTIREM LA CORDA QUE... al final es trenca			alternatives: al final es lliga, al final s'enreda, mai es trenca, mai s'enreda
+	tema: XXX					pregunta: LA PELA... és la pela										alternatives: és fruita, és amor, és la vela, no es regala
+	tema: XXX					pregunta: TANT TENS... tant vals									alternatives: tant vols, tant desapareix, que ningú et vol, tant estimes
+	tema: XXX					pregunta: L’OVELLA AMB LLOP... no fa parella						alternatives: són amics, són cosins, fan parella, fan amistat
+	tema: XXX					pregunta: MORT EL GOS... morta la ràbia								alternatives: mort el gat, morta la rata, viu el gat, salten les puces
+	tema: XXX					pregunta: CEL ROGENT... pluja o vent								alternatives: dia plujós, trons i vent, llamps i trons, aigua corrent
+	tema: XXX					pregunta: DE VELL ENLLÀ... no es pot passar							alternatives: millor no caminar, ens hem de jubilar, es pot passar, parla el capellà
+	tema: XXX					pregunta: L’EXPERIÈNCIA ÉS... la mare de la ciència					alternatives: sorda, inútil, el pare de la ciència, la mare de la llengua
+	tema: XXX					pregunta: QUI MENJA SOPES... se les pensa totes						alternatives: menja pasta, les recull totes, les mira totes, bufa fort
+	tema: XXX					pregunta: LES COSES CLARES... i la xocolata espessa					alternatives: i el caldo espès, i la xocolata freda, i la xocolata blanca, i la xocolata calenta
+	tema: XXX					pregunta: COM MÉS COSINS... més endins								alternatives: més enemics, més amics, menys germans, menys endins
+	tema: XXX					pregunta: DEL PLAT A LA BOCA... ningú no s’equivoca					alternatives: no cau res, tothom s'equivoca, cau la sopa, no cau la sopa
+	tema: XXX					pregunta: HI HA MÉS DIES... que llonganisses						alternatives: que pernils, que ocells, que amics, que persones
+	tema: mesos					pregunta: PEL MAIG... cada dia un raig 								alternatives: tot ho faig, cau un raig, tot s'hi val, mira el que faig
+	tema: XXX					pregunta: A LA TAULA D’EN BERNAT QUI NO HI ÉS... no hi és comptat	alternatives: és odiat, és adorat, no se'l vol, no té gat
+	tema: XXX					pregunta: LA ROBA BRUTA... es renta a casa							alternatives: a la rentadora, fa muntanya, es renta sola, no es renta
+	tema: XXX					pregunta: SALUT I PESSETES... que la resta són punyetes				alternatives: que la resta són pedretes, que la resta són raquetes, com més lluny millor, fan pastetes
+	tema: XXX					pregunta: ANY DE GUERRES... any de penes							alternatives: any d'amors, any d'amics, any d'enemics, any de penyes
+	tema: XXX					pregunta: FAM I GUERRA... lluny de la nostra terra					alternatives: cap a la nostra terra, volem per la nostra terra, tenen els pobres, desitgem per la nostra terra
+	tema: XXX					pregunta: TANTS CAPS... tants barrets								alternatives: tants peus, tantes orelles, tants amics, tants ulls
+	tema: XXX					pregunta: A GRANS CAMPANES... grans campanades						alternatives: grans esglèsies, grans pobles, grans campanars, esglèsies petites
+	tema: XXX					pregunta: QUI SAP COMPRAR... sap vendre								alternatives: sap demanar, té molts amics, no sap vendre, vol ser client
+	tema: XXX					pregunta: DOS GALLS EN UN GALLINER... no hi poden ser				alternatives: amics han de ser, i gallines contentes, hi poden ser, hi han de ser
+	tema: XXX					pregunta: PER LA BOCA... mor el peix								alternatives: mor el gos, tothom s'equivoca, mor el gat, mor el pardal
+----------
+
+Nivell 3:
+
+	tema: XXX					pregunta: GALLINA VELLA... fa bon brou								alternatives: fa mil pous, ja en té prou, ha fet un ou, no menja col
+	tema: XXX					pregunta: CADA TERRA... fa sa guerra								alternatives: té la seva merda, recull la seva merda, busca brega, busca el seu amo
+	tema: XXX					pregunta: BOJOS, AMB BOJOS... s'avenen								alternatives: es maten, s'adoren, s'estimen, es busquen
+	tema: XXX					pregunta: SI VOLS SER BEN SERVIT... fes-te tu mateix el llit		alternatives: fes-te el sopar, fes una bona caminada, a les set sigues al llit, lleva't d'hora pel matí
+	tema: XXX					pregunta: BARCELONA ÉS BONA... si la bossa sona						alternatives: si ho diu la gossa, si ho vol la dona, al matí però a la tarda no, durant una estona
+	tema: XXX					pregunta: NO HI HA FUM... sense foc									alternatives: sense arbres, sense bufetades, sense xemeneia, sense llenya
+	tema: XXX					pregunta: D’AQUÍ A CENT ANYS... tots calbs							alternatives: tots al ball, tots pentinats cap a l'infern, no em busquis, tots malalts
+	tema: XXX					pregunta: QUI NO TÉ FEINA... el gat pentina							alternatives: té un tresor, el gos acaricia, dorm al llit, no té presa
+	tema: XXX					pregunta: ESCOMBRA NOVA... escombra bé								alternatives: escombra amb temor, escombra les sobres, escombra els dissabtes, no escombra
+	tema: XXX					pregunta: NO FACIS EL RUC... que la palla va cara					alternatives: que el vent s'escapa, que la palla és barata, que la palla s'escapa, que tot val un ull de la cara
+	tema: XXX					pregunta: A PEU ES VA... a tot arreu								alternatives: a la cantonada, als llocs que t'agrada, però amb cotxe es vola, pel poble 
+	tema: XXX					pregunta: MORTA LA CUCA... mort el verí								alternatives: mort l'endeví, morta la perdiu, morta l'esperança, morta una sabata
+	tema: XXX					pregunta: HOME DE MOLTS OFICIS... pobre segur						alternatives: ric de camins, ric de riqueses, ric d'experiències, no va mai a missa
+	tema: XXX					pregunta: NO HI HA ROSA... sense espines							alternatives: sense verí, que no sigui maca, que no sigui rosa, sense arrel
+	tema: XXX					pregunta: CADA OVELLA... amb sa parella								alternatives: amb una cabra, a cada camí, va a un lloc diferent, busca la seva parella
+	tema: XXX					pregunta: QUI CALLA... atorga										alternatives: escolta, s'amaga, murmura, s'escapa
+	tema: XXX					pregunta: PEL JULIOL... ni dona ni cargol							alternatives: cada perdiu al seu niu, les flors s'estiren, la dona no vol, la dona va amb el cargol
+	tema: XXX					pregunta: MÉS VAL CALLAR... que amb bèsties parlar					alternatives: que anar a demanar, que parlar, que cridar i ballar, i escoltar
+	tema: XXX					pregunta: FETA LA LLEI... feta la trampa							alternatives: cal complir, arriben els manaires, volen les cabres, roben carteres
+	tema: XXX					pregunta: ASES, AMB ASES... s’entenen								alternatives: s'ajuden, s'escapen, canten, s'escolten
+	tema: XXX					pregunta: O JUGUEM TOTS... o estripem la baralla					alternatives: o fem la guerra, o no hi ha guerra, o marxem cap a la dreta, o ens queixem al jutge
+	tema: XXX					pregunta: A GAT VELL... no li cal cascavell							alternatives: busca-li feina, deixa'l dormir, no li cal la lleteta, no el busquis al matí
+	tema: XXX					pregunta: TOT EL QUE ÉS ENLAIRE... està per caure					alternatives: vola per l'aire, quan cau es trenca, ensopega amb els avions, no li facis desaire
+	tema: XXX					pregunta: QUI TINGUI ORELLES... que escolti							alternatives: que calli, que es posi ulleres, que olori, que parli
+	tema: XXX					pregunta: ALTRES TEMPS... altres costums							alternatives: altres vides, estàn per venir, eren millors, feien patir
+	tema: XXX					pregunta: LA CARA ÉS EL MIRALL...  de l'ànima						alternatives: del diable, de cadascú, del que hi vols veure, de la rata
+	tema: XXX					pregunta: UNA FLOR... no fa estiu									alternatives: no fa caliu, no fa bona vida, en necessita d'altres, no fa color
+	tema: XXX					pregunta: QUI NO ARRISCA... no pisca								alternatives: no busca, no estudia, no guanya, no marxa
+	tema: XXX					pregunta: A LA ROSA... l’amor s’hi posa								alternatives: no li portis flors, l'amor li és nosa, no li parlis d'amor, l'amor li arriba a la tardor
+	tema: XXX					pregunta: VORA RIU NO HI FACIS MAI... el niu						alternatives: el viu, foc viu, el tanoca, el gandul
+	tema: XXX					pregunta: LA PRIMAVERA... les sangs altera							alternatives: les dones altera, els cors altera, els nens altera, les flors altera
+	tema: XXX					pregunta: HOME CASAT... burro espatllat								alternatives: burro honrat, burro acabat, burro en un sac, burro amb canalla
+	tema: XXX					pregunta: COM EL VALLÈS... no hi ha res								alternatives: hi ha molt més, tu no ets res, n'hi ha tres, n'hi ha dos o tres
+	tema: XXX					pregunta: PEL PECAT ES CONEIX... el pecador							alternatives: el pescador, la gent, el jugador, el diables
+	tema: XXX					pregunta: QUI TÉ PA... fa sopes										alternatives: pentina la criada, escombra, té farina, té una joia
+	tema: XXX					pregunta: ON MENGEN DOS...  mengen tres								alternatives: no n'hi caben més, hi ha companyia, menja el cuiner, mengen molts més
+	tema: XXX					pregunta: SEMPRE PAGUEN JUSTOS... per pecadors						alternatives: per pecadors, per estalviadors, per jutges, per jutges i advocats
+	tema: XXX					pregunta: NO TÉ PA NI VI... i convida el veí						alternatives: i fa festa al matí, i és feliç, i seu al jardí, i convida la sogra
+	tema: XXX					pregunta: MÚSICA PAGADA... fa mal so								alternatives: fa mala cara, al músic alegra la cara, ball fins la matinada, dura fins la matinada
+	tema: XXX					pregunta: VAL MÉS UNA IMATGE... que mil paraules					alternatives: que dues, que el formatge, que mil collonades, quan les paraules van barates
+	tema: XXX					pregunta: A CADASCÚ... el que sigui seu								alternatives: una cara, una vida, una ració de tiramisú, li agrada algú
+	tema: abril			        pregunta: A L'ABRIL... aigües mil             						alternatives: tots en volen mil, d'aigües poques, surt la perdiu a volar pel niu, n'hi ha deu mil
+	tema: acabar i començar	    pregunta: TOT LO BO... s'acaba								 		alternatives: comença, té un preu, mai és prou, és poc
+	tema: acabar i començar	    pregunta: BÉ ESTÀ... el que bé acaba            					alternatives: el que té riquesa, el que bé comença, el qui té amistats, el qui té amors
+	tema: agost	x		        pregunta: PER LA MARE DE DÉU D'AGOST... a les set ja és fosc  	 	alternatives: el millor és fer un most, a les deu ja és fosc, el millor és anar al bosc, ben aviat ja és fosc
+	tema: aigua i fonts         pregunta: D'ON NO N'HI HA... no en raja            				  	alternatives: no en busquis, no n'agafis, res en trobaràs, no n'esperis
+	tema: aire i vent		    pregunta: AIRE, QUE VOL DIR... vent!         					   	alternatives: fora!, salta!, balla!, calla!	
+	tema: alls i cebes 		    pregunta: ALLS PIQUEN... i cebes couen   					        alternatives: i cebes ploren, i cebes maten, i cebes curen, i també curen
+	tema: amor i desamor        pregunta: L'AMOR ÉS... cec        							     	alternatives: bonic, agradable, cruel, desamor
+----------
+
+Nivell 4:
+
+	tema: abelles i mel			pregunta: MIQUEL, MIQUEL, NO TENS ABELLES... i vens mel             					alternatives: ni tampoc pèl, i mires al cel, ni tampoc mel, i vols mel	
+	tema: amos i mossos		    pregunta: A MAL AMO... mal criat             										alternatives: mal pastor, bon criat, mala masia, bon jan					
+	tema: XXX					pregunta: LES PENES, AMB PA... són més bones de passar								alternatives: costen de passar, passen més lentes, fan passar la gana, són el millor menjar
+	tema: XXX					pregunta: CASA TANCADA... casa arruïnada											alternatives: casa humitejada,casa calmada,casa engalanada,llar sense esperit 
+	tema: XXX					pregunta: QUI NO ET CONEGUI... que et compri										alternatives: que et busqui, que t'entengui, que et llogui, que et vengui
+	tema: XXX					pregunta: TOTS ELS CAMINS... van a Roma												alternatives: van a Londres, van a Barcelona, van al bosc, van a París
+	tema: XXX					pregunta: QUAN EL GAT DORM... les rates ballen										alternatives: les rates canten, les rates l'acaricien, les rates no hi son, les rates mengen formatge
+	tema: XXX					pregunta: DE L’ARBRE CAIGUT... tothom en fa llenya									alternatives: ningú en vol llenya, se'n treuen fulles, se'n fa foc, ningú en vol saber res
+	tema: XXX					pregunta: NO HI HA MAL... que cent anys duri										alternatives: que no sigui bo, que dos dies duri, que set setmanes duri, que un any duri
+	tema: XXX					pregunta: CADA DIA NO ÉS... Nadal 													alternatives: estiu, hivern, cap d'any, Tots Sants
+	tema: abril			        pregunta: FINS A QUARANTA D'ABRIL... no et treguis ni un fil    					alternatives: no obris el barril, aigües mil, tot val mil, és Nadal
+	tema: aigua i fonts         pregunta: TANT VA EL CÀNTIR A LA FONT... que al final es trenca      				alternatives: que al final es fa vell, que al final es cansa, que al final s'embruta, que es fa amic teu
+	tema: amics i enemics	    pregunta: QUI TÉ UN AMIC... té un tresor             								alternatives: té una vida, té cultura, no té res, no en té pas dos
+	tema: aigua i fonts		    pregunta: AIGUA CORRENT... no mata la gent             								alternatives: mata la gent, no s'estanca, mulla la gent, vent dolent
+	tema: XXX					pregunta: QUI TOT HO VOL... tot ho perd 											alternatives: tot ho té, res perd, tot ho guanya, tot ho aconsegueix
+	tema: XXX					pregunta: LA GLÒRIA FA PERDRE... la memòria											alternatives: la gana, els amics, la família, la raó
+	tema: XXX					pregunta: UNA POMA AL DIA... el metge estalvia										alternatives: el cuc corca, el dentista estalvia, i una pera a la setmana, l'oculista estalvia
+	tema: XXX					pregunta: NINGÚ DÓNA DUROS ...a quatre pessetes										alternatives: a tres pessetes, a dues pessetes, a una pesseta, a cinc pessetes
+	tema: XXX					pregunta: NO HI HA MÉS CERA... que la que crema										alternatives: que la de les orugues, que la vermella, barata, que la que es desfà
+	tema: XXX					pregunta: DE BONES INTENCIONS... l’infern n’és ple									alternatives: tothom en té, l'infern n'és buit, el cel n'és ple, el cel n'és buit
+	tema: XXX					pregunta: L’HÀBIT NO FA... el monjo													alternatives: el capellà, el bomber, el policia, el doctor
+	tema: XXX					pregunta: LA VERITAT I L’OLI... sempre suren										alternatives: empipen, llisquen, no es barregen, no es veuen
+	tema: XXX					pregunta: O TOTS LLADRES... o tots serenos											alternatives: o tots clients, o tots botiguers, o tots metges, o tots bombers
+	tema: XXX					pregunta: CARTA JUGADA... carta tirada												alternatives: carta vista, carta perduda, carta guanyada, carta mullada
+	tema: XXX					pregunta: NINGÚ ÉS PROFETA... a la seva terra										alternatives: a la muntanya, al cel, a l'infern, a la ciutat
+	tema: XXX					pregunta: A CADA OCELLET LI AGRADA... el seu niuet									alternatives: el seu fillet, el seu vol, el seu bec, el seu plumatge
+	tema: XXX					pregunta: MENTRE HI HAGI RUCS... els savis aniran a cavall							alternatives: els savis aniran a peu, ningú anirà a peu, tots al galop, els savis aniran amb rucs
+	tema: XXX					pregunta: GENT JOVE... pa tou														alternatives: pa dur, coca tova, coca dura, aigua clara
+	tema: XXX					pregunta: D’ERRORS DELS METGES... els cementiris n’estan plens						alternatives: n'hi ha pocs, tothom se'n salva, ningú se'n salva, l'hospital n'és ple
+	tema: XXX					pregunta: DURA MÉS FIL I AGULLA... que tota la roba de Catalunya					alternatives: que tota la roba d'Andorra, que tota la roba d'Aragó, que tota la roba de Roma, que tota la roba de Vic
+	tema: XXX					pregunta: A CADA PORC LI ARRIBA... el seu Sant Martí								alternatives: el seu estable, el seu fang, l'escorxador, el moment de ser una llonganissa
+	tema: XXX					pregunta: NO ÉS BOIG QUI... a casa torna											alternatives: parla més, qui a casa no torna, qui de casa se'n va, qui es baralla
+	tema: XXX					pregunta: AMB BONES EINES... es fan bones feines									alternatives: es fan bones festes, es fan cases, no es fa res, tothom ajuda
+	tema: XXX					pregunta: GAT AMB GUANTS... no agafa rates											alternatives: patina, no corre, atrapa rates, no esgarrapa
+	tema: XXX					pregunta: BARALLA DE PARENTS... dura llarg temps									alternatives: tot mentides, fuig si tens temps, dura poc temps, la cura el temps
+	tema: XXX					pregunta: NO HI HA MÉS CEC... que aquell que no vol veure-hi						alternatives: que el que no té ulls, que el polític, que aquell que roba, que aquell que mata
+	tema: XXX					pregunta: DE TOT HI HA... a la vinya del Senyor										alternatives: a can Salvador, al cel, a l'infern, a la ciutat
+	tema: XXX					pregunta: PEIX QUE S’ESCAPA DE LA XARXA... mai més s’agafa							alternatives: millor no pescar, sempre s'agafa, s'ha d'empaitar, massa petit
+	tema: XXX					pregunta: UN DIA SENSE HAVER RIGUT... és un dia perdut								alternatives: és un dia guanyat, és un amic perdut, és un any perdut, és un any guanyat
+	tema: XXX					pregunta: GAVINA A LA PLATJA... mariner en terra									alternatives: va a morir, i peix a l'aigua, busca menjar, socorrista a terra
+	tema: XXX					pregunta: EL DIMONI EN SAP MÉS PER VELL... que per dimoni							alternatives: que per àngel, que per cadell, que per savi, que per haver estudiat
+	tema: XXX					pregunta: LLIBRE TANCAT... mestre callat											alternatives: alumne espavilat, mestre empipat, alumne castigat, alumne cansat
+	tema: XXX					pregunta: EL MÓN NO ES VA FER... en un dia											alternatives: en set dies, en una setmana, sense voler, pel Big Bang
+	tema: XXX					pregunta: DE LA MORT NO... es passa													alternatives: se'n fa burla, se'n parla, se'n fa amic ningú, es fa predicció
+	tema: XXX					pregunta: TAL PARE... tal fill														alternatives: tal filla, tal cosí, tal criat, tal nét
+	tema: XXX					pregunta: BLAT I VI, AVUI PER TU... demà per mi										alternatives: avui per mi, mai més per mi, demà tururut, avui tururut 
+	tema: XXX					pregunta: DOS VINS FAN... quaranta													alternatives: borratxera, massa, una ampolla, mal de cap
+	tema: XXX					pregunta: CAP I CUA FAN... el peix													alternatives: l'home, el gos, el gat, el nen
+	tema: XXX					pregunta: COM MÉS EN TENS... més en vols											alternatives: menys en vols, més en demanes, menys en demanes, més en tens
+----------
+
+Nivell 5:
+
+	tema: XXX					pregunta: CADA DIA SURT... el Sol									alternatives: la lluna, el carter, el mussol, el cargol
+	tema: XXX					pregunta: EL SOL TOT... ho cura										alternatives: ho crema, ho refreda, ho il·lumina, ho fa brillar
+	tema: XXX					pregunta: CONTENT JO... content tothom								alternatives: content ningú, com un gínjol, tothom trist, tothom enfadat
+	tema: XXX					pregunta: LA VOLUNTAT MOU... muntanyes								alternatives: el món, el Sol, la terra, fronteres
+	tema: XXX					pregunta: TANT ES PERD PER MASSA... com per massa poc				alternatives: com per avarícia, com per gens, com per molt, com per ase
+	tema: XXX					pregunta: ES POT DIR MÉS ALT... però no més clar					alternatives: i més clar, i després callar, però no més fluix, i més lluny
+	tema: XXX					pregunta: CLAR I... català											alternatives: castellà, anglès, portugués, basc
+	tema: XXX					pregunta: QUAN UNA PORTA ES TANCA ... se n’obre una altra			alternatives: no es pot obrir, no es pot passar, se'n tanca una altra, no hi ha res a fer
+	tema: XXX					pregunta: VAL MÉS PAGÈS ... que marquès								alternatives: que pastor, que llenyataire, que doctor, que sereno
+	tema: XXX					pregunta: EL PAGÈS, SI NO TREBALLA ... no té res					alternatives: no fa res, busca feina, mata el llop, fa migdiada
+	tema: XXX					pregunta: NOVEMBRE ACABAT... hivern començat						alternatives: estiu començat, hivern acabat, estiu acabat, hivern nevat
+	tema: XXX					pregunta: MÉS VAL POC... que gens									alternatives: que molt, i bo, i dolent, i conegut
+	tema: XXX					pregunta: HI HA MIL MANERES... de matar puces						alternatives: de matar porcs, de caçar conills, de caçar ocells, de matar polls
+	tema: XXX					pregunta: NOUS REIS... noves lleis									alternatives: males lleis, lleis antigues, noves il·lusions, noves preocupacions
+	tema: XXX					pregunta: COM MÉS RICS... més rucs									alternatives: més amics, menys amics, més savis, més simpàtics
+	tema: XXX					pregunta: QUI T’ESTIMA... et farà plorar							alternatives: et vol mal, no et vol mal, et farà riure, et farà pensar
+	tema: XXX					pregunta: MOLTES GOTES FAN... un riu								alternatives: un mar, un llac, pluja, neu
+	tema: XXX					pregunta: PER SANT JOAN... el primer bany							alternatives: focs artificials, l'ultim bany, coets sense parar, coca i coets
+	tema: XXX					pregunta: A CADA SANT... li arriba el seu dia						alternatives: li arriba la seva nit, li arriba el seu sant, se li ha fet una estàtua, la seva estampa
+	tema: XXX					pregunta: LES APARENCES... enganyen									alternatives: maten, enamoren, parlen, fan riure
+	tema: XXX					pregunta: DESPRÉS DEL SEGAR... ve el batre							alternatives: tot és plorar, cantar i ballar, ve el dormir, ve el descansar
+	tema: XXX					pregunta: LA IGNORÀNCIA ÉS... atrevida								alternatives: la mare de la ciència, amiga, desitjada, obligada
+	tema: XXX					pregunta: QUI A BÈSTIA O PLANTA FA MAL... és un animal				alternatives: és un humà, no és animal, no estima, no té sentiments
+	tema: XXX					pregunta: AMB EL MENJAR... no s’hi juga								alternatives: s'hi juga, s'hi fan guerres, tot és comprar, s'hi pensa
+	tema: XXX					pregunta: L’EXPERIÈNCIA FA... el mestre								alternatives: l'alumne, el director, el doctor, la bèstia
+	tema: XXX					pregunta: BON MESTRE... fa bon vailet								alternatives: mal alumne, bona classe, dura dos dies, dura tres dies
+	tema: XXX					pregunta: LLOPS AMB LLOPS... no es mosseguen						alternatives: es barallen, es mosseguen, juguen, tenen fills
+	tema: XXX					pregunta: QUAN PARLEN ELS VELLS... callen els joves					alternatives: tothom calla, criden els joves, parlen els joves, ningú parla
+	tema: XXX					pregunta: SANTA LLÚCIA ENS CONSERVI... la vista						alternatives: el vi, el gust, el tacte, l'olfacte
+	tema: XXX					pregunta: PER NADAL, CAPONS... neules i torrons						alternatives: tions i bastons, família i amics, i tothom al seu corral, i ovelles al corral
+	tema: XXX					pregunta: DE PARE MÚSIC... fill ballador							alternatives: fill flautista, fill doctor, fill timbaler, fill violinista
+	tema: XXX					pregunta: DEL NÀIXER AL MORIR... curt camí							alternatives: tot és fer camí, llarg camí, camí dur, camí fàcil
+	tema: XXX					pregunta: NEU AL GENER... tot l’any va bé							alternatives: no hi pot ser, i gel al galliner, i gel a l'estable, l'any passat
+	tema: consell				pregunta: QUI MOLT ABRAÇA... poc estreny							alternatives: poc empeny, poc mira, poc disfruta, molt s'estressa
+	tema: aigua i fonts		    pregunta: NO DIGUIS MAI... d'aquesta aigua no en beuré  	 		alternatives: que el diner compra la felicitat, d'aquest menjar no en menjaré, que d'aigua no en falta, que tens tot el que vols
+	tema: aire i vent           pregunta: QUI SEMBRA VENTS... recull tempestats     		  		alternatives: recull el blat, en surt malparat, recull mal de caps, recull estimats
+	tema: alls i cebes	        pregunta: QUI NO TÉ UN ALL... té una ceba	             			alternatives: no té res, té un tomàquet, no té casa, té un bon àpat
+	tema: amics i enemics       pregunta: D'AMICS, POCS... i bons  	           						alternatives: i llestos, i bonics, i de confiança, o ets boig
+	tema: advocats i jutges		pregunta: A L'ADVOCAT DIGUES-LI... la veritat	 					alternatives: el que ha passat, el que vol el teu cap, tot de mentides, el que vol sentir
+	tema: XXX					pregunta: VAL MÉS UN TÉ... que no dos te’n daré						alternatives: que un vols, que un te'n daré, que un te anglès, que un cafè
+	tema: WWW					pregunta: A BON ENTENEDOR... poques paraules basten					alternatives: bones paraules, no li cal equip, no li cal capità, moltes orelles
+	tema: WWW					pregunta: A CASA D'UN TITELLA... ella és ell i ell és ella			alternatives: tot són obres, tothom és tothom, ella és ella i ell és ell, tot són joguines
+	tema: WWW					pregunta: SI VOLS UN BON CONSELL... pren-lo d'un home vell			alternatives: fuig dels polítics, pren-lo d'un mestre, escolta el pare, roba carteres
+	tema: WWW					pregunta: PAS A PAS... ja arribaràs									alternatives: mai arribaràs, lent aniràs, bé ho faràs, tot ho veuràs
+	tema: XXX					pregunta: ESTRETS COM... sardines									alternatives: xais, gallines, al mercat, bolets
+	tema: XXX					pregunta: PITJOR QUE... una taca d'oli								alternatives: en Rajoy, una taca de vi, un amic, una taca de llet
+	tema: XXX					pregunta: ABANS DE PRENDRE CASA PER HABITATGE... mira bé el veïnatge alternatives: mira bé el preu, mira bé el garatge, pren-la per situació, busca pegues
+	tema: aire i vent 			pregunta: PlLOGUÉS O NEVÉS... però vent no fes 						alternatives: era el temps del nord, feia mal temps, els homes s'ho emportaven, els humans ho destrosaven
+	tema: cos					pregunta: ELS ULLS... no són mai vells 								alternatives: sempre són nous, diuen veritats, diuen mentides, mai són nous
+----------	
+
+Nivell 6:
+
+	tema: amos i mossos  		pregunta: CADA CASA UN AMO... i cada corral un gall														alternatives: i cada equip un capità, i cada passa una sabata, cada emprenyada una estafa, i cada granja una mula
+	tema: amos i mossos      	pregunta: No hi ha finca dolenta... si l'amo és bo														alternatives: si la collita és bona, si ve l'amo de dia, si hi ha un bon mosso, si hi ha blat i pernil
+	tema: amos i mossos      	pregunta: El bon amo fa... el bon mosso											  						alternatives: la bona fortuna, la bona vida, el bon profit, el bon estimar
+	tema: abelles i mel	        pregunta: De bones flors raja la mel... de mals cors el fel             								alternatives: i de les dolentes no, de mals ulls el fel, de bons llocs el fel, i de bons cors el fel
+	tema: aire i vent	        pregunta: L'aire corrent... mata la gent  	           		        	    							alternatives: no és dins de la ment, mata formigues, és bo per la gent, no mata ni ven
+	tema: aire i vent           pregunta: Vent calent... vent dolent     	        													alternatives: vent que t'escalfa, vent d'occident, vent deficient, vent d'orient
+	tema: ajudar i enredar 		pregunta: Ajuda't... i Déu t'ajudarà     	        													alternatives: i el Sant t'ajudarà, i tot ho aconseguiràs, i a Déu veuràs, i milloraràs
+	tema: amics i enemics	    pregunta: No hi ha enemic... petit             							    							alternatives: que no et faci patir, que per mal no vingui, que sigui amic, a qui no hagis de vigilar
+	tema: amics i enemics	    pregunta: A enemic que fuig... pont de plata              												alternatives: carretera d'or, pont de fusta, se'l tracta amb tendresa, bon vent i que no torni	
+	tema: amor i desamor        pregunta: De mal d'amor... els metges no en curen														alternatives: els metges en curen, els psicòlegs no en curen, ningú se'n salva, tothom en pateix
+	tema: mesos					pregunta: Abril finat... hivern acabat 																	alternatives: hivern començat, estiu educat, fred mig plantat, malament ha quedat
+	tema: advocats i jutges 	pregunta: Advocat, jutge i doctor... com més lluny millor												alternatives: millor ben a prop, esperem ser-ho algun dia, a la família com més millor, el més lluny del teu pobre cos
+	tema: aire i vent			pregunta: El temps, el vent i la fortuna... canvien com la Lluna	 									alternatives: segueixen la sort, canvien com la mar salada, són coses ben diferents, són coses de savis
+	tema: aire i vent			pregunta: Les males notícies... corren més que el vent													alternatives: són les que importen, corren com la veu, vénen dels Pirineus, vénen de grans museus, només en saben els déus
+	tema: tradicio				pregunta: Vés a dormir d'hora i lleva't de matí... si riquesa i salut vols tenir						alternatives: si vols anar fent camí, o et faràs pipí al llit, per poder rendir, si vols ser com Sant Martí 	
+	tema: consell				pregunta: Qui sembra caritat... cull amistat															alternatives: té molts amics, té bondat, és adorat, obté resultat
+	tema: consell				pregunta: Bon viure i no treballar... no pot durar														alternatives: sort de cagar, no dóna pa, et fa llepar, provoca gelosia
+	tema: cos					pregunta: El que no agrada als ulls... no plau a la boca 												alternatives: fa mal a la gola, fa goig de llençar, se'n va cap a fora, es refusa i es torna
+	tema: cos					pregunta: La llum dels ulls... és l'alegria de l'ànima 						alternatives: és de color negre, és la tristor de la nit, és la felicitat en persona, és la que no fa el sol
+	tema: cos					pregunta: Qui no té cap	... ha de tenir cames								alternatives: ha de tenir paciència, ha de ser educat, ha d'anar a la guerra, té el cor trencat
+	tema: cos					pregunta: Cap gros... cap talòs 											alternatives: gran de cos, com un gegant, mai s'acaba, no té camí
+	tema: consell				pregunta: Tot està per fer... i tot és possible								alternatives: i jo no ho farè, i és un merder, i cal saber-ho fer, i tu ho pots fer
+	tema: consell				pregunta: Març, marçot... mata la vella i la jove si pot					alternatives: fa el que sigui per veure'l mort, mira que maco que fa el que pot, petit o gran el que importa és el cor, ballava sardanes al mig de la cort 		
+	tema: tradicio				pregunta: Qui fa un cove... fa un cistell									alternatives: fa roba, fa un gibrell, sap qui raona, mai no plora 
+	tema: consell				pregunta: Qui no vulgui pols... que no vagi a l'era 						alternatives: que no treballi molt, que no busqui brega, que no vagi a l'herba, que no escombri  
+	tema: consell				pregunta: No diguis blat... fins que no sigui al sac i ben lligat			alternatives: fins que no hagis fet el pa, fins que no hagis cobrat, fins que no sigui ben groc, fins que no sigui collit i beneït
+	tema: cos humà				pregunta: Tan alt com... un Sant Pau										alternatives: com un gripau, com un babau, com un anec blau, com una girafa
+	tema: aire i vent			pregunta: Cada comarca té... el seu vent 									alternatives: els seus renecs, els seus menjars, el seu riu, una bona barca
+	tema: consell				pregunta: Tal faràs... tal trobaràs											alternatives: tal buscaràs, tal baixaràs, tal colliràs, tal tallaràs
+	tema: cos					pregunta: Mans fredes... cor calent											alternatives: cor fred, cor amagat, peus congelats, braços calents
+	tema: cos					pregunta: Molta llengua... poques mans 										alternatives: pocs estanys, poca opinió, molta enveja, poca feina
+	tema: cos					pregunta: Per xic peu... no cau el cos 										alternatives: gran cervell, cas no li feu, feu el que pogueu, sabata grossa
+	tema: aigua i fonts		    pregunta: Cadascú porta l'aigua... al seu molí           					alternatives: a la seva casa, on li ve de gust, al refugi de casa, al seu dipòsit
+	tema: aigua i fonts		    pregunta: El foc té aturador... que l'aigua no             					alternatives: l'aigua també, que el vent no, l'aigua l'apaga, que el vent no en té
+	tema: alls i cebes	        pregunta: Allioli, menjar... del dimoni             						alternatives: de Sant Jeroni, de l'infern, per perdre el seny, del cel lluent
+	tema: XXX					pregunta: PER NADAL, QUI RES NO ESTRENA... res no val						alternatives: no és cristià, carbó menja, tot ho val, mala actitud tot l'any
+	tema: XXX					pregunta: Tota pedra... fa paret											alternatives: és millor que totxo, fa sostre, fa terra, fa teulada
+    tema: aire i vent			pregunta: Amb bon vent... tothom és mariner  								alternatives: tothom pot caure, ningú no baixa, la barca arrenca, les veles peten
+	tema: escatologia			pregunta: Allà on cagues... deixes la merda 								alternatives: no mengis, cau un raig, hi va el bisbe, hi va el porter
+	tema: XXX					pregunta: FENT I DESFENT... es fa l’aprenent								alternatives: fila la gent, es coneix a la gent, es fa el mestre, treballa l'aprenent
+	tema: XXX					pregunta: ABANS D’ENSENYAR... aprèn											alternatives: estudia, canta, descansa, estima 
+	tema: consell				pregunta: El mercader a la plaça... i el menestral a casa					alternatives: i la dona a casa, té molta traça, vol venjança, i el cabàs a casa
+	tema: XXX					pregunta: UN LLUM AL SOL... no fa claror									alternatives: no hi pot ser, fa claror, fa escalfor, no fa escalfor
+	tema: XXX					pregunta: QUI RES NO TÉ... res no tem										alternatives: res no perd, res no busca, tot ho vol, tot ho tem
+	tema: XXX					pregunta: MISÈRIA CRIDA... misèria											alternatives: diner, amistat, amor, treball
+	tema: XXX					pregunta: MIG MÓN ES RIU... de l’altre mig									alternatives: de tothom, del senyor, dels polítics, dels reis
+	tema: XXX					pregunta: REIS TINGUEM... però no els coneguem								alternatives: i d'amics els volem, i al costat els tindrem, i ens facin lleis, i els envejarem
+	tema: XXX					pregunta: ANY GELAT... any de blat											alternatives: any nevat, any de pa, any d'orenetes, no fa estiu
+	tema: XXX					pregunta: BLAT HI FEIEN NOSTRES AVIS... fem-hi blat i serem savis			alternatives: fem-hi blat i arribarem a avis, perquè treballaven gratis, perquè no eren savis, i menjaven pa	
+----------
+
+Nivell 7:
+
+	tema: XXX					pregunta: QUAN L’OCTUBRE ÉS FINIT... mor la mosca i el mosquit					alternatives: mor el cuc, vola la mosca, vola el mosquit, arriba la mosca i el mosquit
+	tema: XXX					pregunta: MÉS VAL PEDAÇ... que forat											alternatives: que costura, sobre pedaç, que passar fred, que comprar de nou 
+	tema: XXX					pregunta: LA PARAULA FA... l’home												alternatives: la frase, l'animal, el savi, la guerra
+	tema: XXX					pregunta: MÉS VAL RIURE... que plorar											alternatives: que saltar, que badallar, que cantar, que cridar
+	tema: XXX					pregunta: PER SANT NARCÍS... cada mosca val per sis								alternatives: cada mosquit val per sis,cada cuc val per sis, cada mosca val per set, cada papallona val per sis
+	tema: XXX					pregunta: MÚSICA I FLORS... conquisten amors									alternatives: fan bons amics, agraden a tothom, si vols petons, per estar content
+	tema: XXX					pregunta: SANT JOAN, DE LES FESTES... va al davant								alternatives: la millor, la pitjor, la més llarga, la més calorosa
+	tema: XXX					pregunta: QUI TÉ FAM... somia truites											alternatives: mata la gana, somia galetes, somia torrons, compra pa
+	tema: cos					pregunta: Curt de vista... llarg de cames 										alternatives: curt de cames, llarg d'oïda, curt de mans, llarg de mans
+	tema: amos i mossos   		pregunta: Amo content	... mosso fotut											alternatives: mosso buscat, mosso emprenyat, mosso arruïnat, mosso que paga
+	tema: Agost					pregunta: Per la Mare de Déu del Llit... tan llarg és el dia com la nit	    	alternatives: posa't al llit, la nit és massa llarga, el dia és ben bonic, la vida s'apaga
+	tema: abelles i mel			pregunta: Val més una gota de mel... que un càntir de fel 						alternatives: que mil-i-un pèls, que el meu amic Manel, que totes les llums que hi ha al cel, que les veritats que hi ha al cel
+	tema: aire i vent           pregunta: Val més bon vent... que força de rems             	   	 			alternatives: que nedar amb estil, que força de motor, que riquesa infinita, que un mal turment
+	tema: aire i vent		    pregunta: A un mateix vent... aquí li diuen bo i allà dolent 					alternatives: li diuen noms diferents, allà el troben fred i aquí calent, no li diguis mai cap on ha de bufar, li diuen vent i aire corrent
+	tema: aigua i fonts	        pregunta: Càntir nou... fa l'aigua fresca               						alternatives: càntir que es trenca, fa l'aigua calenta, fa l'aigua ben neta, càntir de merda
+	tema: amor i desamor        pregunta: Home lleig... dona bonica             								alternatives: dona lletja, gos lleig, dona simpàtica, home simpàtic
+	tema: alls i cebes			pregunta: No hi ha medicina més bona que la ceba... l'all i la llimona 			alternatives: les figues i les panses, el xarop i la sopa, i la sopa, la llimona i el plàtan
+	tema: cos					pregunta: Una mà renta l'altra... i les dues la cara 							alternatives: i amb el paper el cul, per no fer mala cara, i amb les dues es menja, i amb les dues treballes
+	tema: cos					pregunta: Panxa buida... tot són badalls 										alternatives: tot és aire, tot és gana, molta gana, fam d'aigua
+	tema: amor i desamor	    pregunta: Amor i rei... no toleren llei            								alternatives: requereixen seny, no volen seny, no toleren el seny, fan la seva llei
+	tema: amics i enemics       pregunta: Busca l'amic i no... el teu profit             						alternatives: el dimoni, et facis embolics, busquis la guerra, el teu amor	
+	tema: advocats i jutges	    pregunta: De mentiders i d'advocats... jo us en portaré a grapats      			alternatives: n'hi ha més que d'educats, no te'ls trobaràs mai d'educats, pocs en necessitaràs, esperem no veure'ls mai
+	tema: XXX					pregunta: MONGES, CIVILS I OUS FERRATS... sempre van aparellats								alternatives: a la paella tots plegats, mai van aparellats, són durs de pelar, fan de bon acompanyar
+	tema: XXX					pregunta: UNA FALTA CONFESSADA... és mig perdonada											alternatives: no és perdonada, millor que amagada, serà perdonada, val per dos
+	tema: XXX					pregunta: DELS PECATS DE LA PERDIU... nostre Senyor se’n riu								alternatives: tothom se'n riu, se'n parla al riu, ningú en viu, tothom en fa 'piu-piu'
+	tema: XXX					pregunta: DE NIT PASSA... la moneda falsa													alternatives: el billet fals, la borratxera, la festa grossa, la roba falsa
+	tema: XXX					pregunta: FIGA TOCADA... figa menjada														alternatives: figa corcada, figa trobada, figa dolenta, figa madura
+	tema: XXX					pregunta: EL VI VOL... coixí																alternatives: companyia, temps, celler, pair
+	tema: cos					pregunta: La barba de molts colors... la porten els traïdors 								alternatives: la porten els que fan goig, la porten els pecadors, la porten els rics, no fa la mentida
+	tema: escatologia			pregunta: Com més ploraràs... menys pixaràs 												alternatives: més mal et faràs, més menjaràs, menys cura tindràs, més patiràs	
+	tema: XXX					pregunta: SANT SILVESTRE... el darrer vespre												alternatives: el primer vespre, el pitjor vespre, el millor vespre, el més terrestre
+	tema: XXX					pregunta: SI VOLS SER AMIC DEL GAT... grata-li el cap										alternatives: caça rates, pica-li el cap, dóna-li pinso, grata-li la panxa
+	tema: XXX					pregunta: POBLE PETIT... llengua llarga														alternatives: poble bonic, poble atapeït, poble buit, poble envellit
+	tema: XXX					pregunta: ORENETA ARRIBADA... hivernada acabada												alternatives: hivernada començada, hivernada gelada, caloreta acabada, caloreta arribada
+	tema: XXX					pregunta: DE LLIBRES I PARAIGÜES... no en deixis gaires										alternatives: no en compris gaires, porta'n sempre, no en tinguis gaires, no en vulguis gaires
+	tema: XXX					pregunta: NO HI HA PITJOR SORD... que el qui no vol escoltar								alternatives: que el qui crida, que el qui no deixa parlar, que el qui marxa, que el qui no parla
+	tema: XXX					pregunta: GUARDA’T SEMPRE, PERET... una poma per la set										alternatives: una guitarra per les set, una pera per les set, una poma per la gana, un barret
+	tema: XXX					pregunta: DEL VELL, EL CONSELL, I DEL JOVE...  el remei										alternatives: el treball, res de res, la festa, l'alegria
+	tema: XXX					pregunta: DE PRESSA, QUE L'OLLA... vessa													alternatives: bull, es crema, cau, pesa
+	tema: XXX					pregunta: ARBRES FRUITERS... fes-los a milers												alternatives: fes-ne pocs, millor que ametllers, pitjor que ametllers, millor menys que més
+	tema: XXX					pregunta: Amb paciència... es guanya el cel													alternatives: es fa ciència, es guanya l'infern, es fa el pa, s'enamora la noia
+	tema: XXX					pregunta: Tard o d'hora totes les barques... fan aigua										alternatives: suren, es trenquen, fan port, tenen patró
+	tema: XXX					pregunta: A cavall regalat... no li miris el dentat											alternatives: mira-li el dentat, torna'l aviat, no li donis blat, no el tinguis tancat
+	tema: XXX					pregunta: A cartes vistes... tothom és jugador												alternatives: millor no jugar, no es pot perdre, tot és guanyar, tothom perd
+	tema: XXX					pregunta: A bon cavaller... mai li falten armes												alternatives: mal cavall, mal escuder, bon escuder, males armes
+	tema: XXX					pregunta: A bona son... no hi ha llit dur													alternatives: bones són fustes, no hi ha llit tou, no hi ha pedra tova, corre a dormir
+	tema: XXX					pregunta: A barca nova... patró vell														alternatives: vela vella, vela nova, timó vell, patró nou
+	tema: XXX					pregunta: Abans de dir que sí... demana-ho al coixí											alternatives: digues dos cops que no, salta dos cops, compta fins a cinc, pregunta al veï
+	tema: cos					pregunta: Cama curta ... llengua llarga														alternatives: peu estret, panxa rodona, orella petita, ulls de perdiu
+----------
+
+Nivell 8:
+
+	tema: XXX					pregunta: LA CARITAT BEN ENTESA... comença per un mateix						alternatives: comença pels amics, mai sobra, no molesta, comença per la família
+	tema: XXX					pregunta: SE’NS PIXEN A SOBRE... i diuen que plou								alternatives: i no demanen perdó, i no paren, i dissimulen, i es queixen
+	tema: XXX					pregunta: REUS, PARÍS... Londres												alternatives: Barcelona, Madrid, Milan, Berlin
+	tema: XXX					pregunta: QUI PICA PRIMER... pica dos cops										alternatives: no ho fa segon, pica tres cops, pica un cop, pica més fort
+	tema: XXX					pregunta: GAT ESCALDAT... d’aigua tèbia fuig									alternatives: d'aigua freda fuig, aigua calenta vol, no vol amistat, corre atabalat
+	tema: XXX					pregunta: EL PEIX GROS... es menja el petit										alternatives: no té cua, s'ho menja tot, i la carn petita, no viu al mar
+	tema: XXX					pregunta: DE LES ERRADES SURTEN... els metges									alternatives: els lladres, els polítics, els amics, els mestres
+	tema: XXX					pregunta: A CADA BUGADA... es perd un llençol									alternatives: es fa soroll, es molesta al veí, es perd color, es trenca un mitjó
+	tema: XXX					pregunta: TANT ÉS TREBALLAR... com fer feina									alternatives: com descansar, com cuinar, com mirar, com animar
+	tema: XXX					pregunta: FEINA COMENÇADA... és mig acabada										alternatives: feina acabada, mai és acabada, costa acabar, feina feta
+	tema: XXX					pregunta: UNS TENEN LA FAMA... i altres carden la llana							alternatives: i els altres la gana, per culpa dels altres, i els altres estudien, i els altres se'n carden
+	tema: XXX					pregunta: NO HI HA MILLOR MENJAR QUE...  la gana								alternatives: el pa, la pizza, la pasta, la fruita
+	tema: XXX					pregunta: DINER CRIDA... diner													alternatives: pobre, ric, moneder, banquer
+	tema: XXX					pregunta: AGAFA FAMA... i posa’t a jeure										alternatives: i tindràs gana, i fuig corrent, i estudia, i treballa
+	tema: XXX					pregunta: APRENENT DE TOT... mestre de res										alternatives: aprenent de res, mestre de tot, amic de ningú, mestre de molts
+	tema: XXX					pregunta: LES DENTS DE LA GOSSA... no fan mal al cadell							alternatives: mosseguen l'amo, fan mal al cadell, no són de llet, busquen carn
+	tema: XXX					pregunta: DE VEGADES, DE VEGADES... els ocells fan cagarades					alternatives: els gossos fan cagarades, les vaques fan cagarades, surten bolets, hi ha baralles
+	tema: XXX					pregunta: DÉU APRETA... però no ofega											alternatives: i estreny, però no empeny, i empeny, i ofega
+	tema: XXX					pregunta: MENJAR POC... i pair bé												alternatives: i dormir bé, i beure poc, i fer migdiada, i beure molt
+	tema: XXX					pregunta: QUI VULGUI PEIX...  que es mulli el cul								alternatives: que el pesqui, que sigui pescador, que el compri al mercat, que demani lluç
+	tema: XXX					pregunta: CARRERS MOLLS... calaixos eixuts										alternatives: carrers glaçats, escales eixutes, calaixos molls, escales molles
+	tema: XXX					pregunta: NO DIGUIS ASE A NINGÚ... que no ho sigui més que tu					alternatives: que sàpiga menys que tu, que s'assembli a tu, si no ho vols ser tu, sinó ho seràs tu
+	tema: XXX					pregunta: DE JOSEPS, JOANS I ASES... n’hi ha a totes les cases					alternatives: no en queden, ningú en vol, no n'hi ha a cap casa, no se'n busquen
+	tema: XXX					pregunta: ELS CASAMENTS ES FAN AL CEL... i es compleixen a la Terra				alternatives: i no a la Terra, i es compleixen a l'infern, i no es compleixen, i acaben a l'infern
+	tema: XXX					pregunta: ELS CANSATS... fan la feina											alternatives: dormen, descansen, no fan feina, només miren
+	tema: XXX					pregunta: TEMPS DE FLORETES... temps d’amoretes									alternatives: temps de pedretes, temps d'orenetes, temps d'amor, temps de colors
+	tema: XXX					pregunta: MÉS VAL SER CAP D’ARENGADA... que cua de lluç							alternatives: que cap de lluç, que cua de rap, que cua de salmó, que cap de sardina
+	tema: XXX					pregunta: A LA FORÇA... els pengen												alternatives: es fan entendre, els peguen, es busquen amics, es casen
+	tema: XXX					pregunta: OVELLA SENSE PASTOR... el llop se la menja							alternatives: no pastura, es perd, del llop s'escapa, no fa llana
+	tema: XXX					pregunta: PER LA CORDA ES TROBA... el ruc							        	alternatives: el xai, el nus, el cavall, l'amic
+	tema: XXX					pregunta: DIES I OLLES... curen totes les coses									alternatives: no curen res, cuinen totes les coses, fan ferides, cuinen amistats
+	tema: XXX					pregunta: ENTRE GERMANS... no hi fiquis les mans								alternatives: tot és amor, no hi fiquis el nas, no hi busquis brega, no hi ha disbarats
+	tema: XXX					pregunta: LA VIDA DEL BURGÈS: MENJAR, BEURE... i no fer res						alternatives: i manar, i cantar, i guanyar diners, i perdre diners
+	tema: XXX					pregunta: QUI TÉ EL CUL LLOGAT... no seu quan vol								alternatives: seu quan vol, no seu mai, té el cul mullat, no té gat
+	tema: XXX					pregunta: QUI MATINA... fa farina												alternatives: va a escola, va a la mina, dorm poc, no patina
+	tema: cos					pregunta: Amb la llengua... tot és bo d'arreglar 								alternatives: tot és plaer, es menja i es té set, tot s'empobreix, es parla en mig d'un concert
+	tema: cos					pregunta: El cap i els peus... fan l'home										alternatives: fan el camí, donen vida, fan la mida, fan el cos
+	tema: XXX					pregunta: LA MENTA L’AMOR... augmenta											alternatives: espanta, allunya, fomenta, tempesta
+	tema: XXX					pregunta: ARRENCADA DE CAVALL... parada d’ase									alternatives: cursa guanyada, parada de lleó, cursa perdedora, parada de tortuga
+	tema: XXX					pregunta: QUI BÈSTIA VA A ROMA... bèstia en torna								alternatives: normal en torna, animal en torna, no en torna, italià en torna
+	tema: XXX					pregunta: DESPRÉS DELS TRONS... ve la pluja										alternatives: ve el vent, ve la tempesta, ve el Sol, ve l'huracà
+	tema: XXX					pregunta: DEUTES VELLS... baralles noves										alternatives: deutes nous, baralles velles, amics vells, amics nous
+	tema: XXX					pregunta: SEGONS EL PECAT... la penitència										alternatives: el pecador, la solució, la presó, la fama
+	tema: XXX					pregunta: NO ÉS BEN CASAT... qui no ha estat a Montserrat						alternatives: qui no ho fa al cel, qui no ho fa obligat, qui no està enamorat, qui està enamorat
+	tema: XXX					pregunta: BARALLES DE CANALLA... foc de palla									alternatives: baralles curtes, foc de llenya, baralles llargues, no fan palla
+	tema: XXX					pregunta: TOTES LES MASSES... piquen											alternatives: es trenquen, ensenyen, maten, són cares
+	tema: XXX					pregunta: LES HERBES DE SANT JOAN... tenen virtut tot l’any						alternatives: no serveixen tot l'any, es cullen tot l'any, viuen un any, duren tres anys
+	tema: XXX					pregunta: QUI NO TÉ PA... somia coques											alternatives: té aigua, té gana, somia pastissos, somia truites
+	tema: XXX					pregunta: UN BARBER AFAITA... l’altre											alternatives: tot un poble, tots els homes, quan vol, amb navalla
+----------
+
+Nivell 9:
+
+	tema: XXX					pregunta: QUI MENJA SARDINA... que cagui l’espina								alternatives: no fa Carnestoltes, que busqui l'espina, no menja lluç, no fa festa
+	tema: XXX					pregunta: INFANTS I ORATS... diuen les veritats									alternatives: diuen mentides, parlen com desbocats, mai estan animats, sempre estan animats
+	tema: XXX					pregunta: AL SASTRE SENSE DIDAL... l’agulla li fa mal							alternatives: l'agulla no li punxa, no li donis fil, no li demanis pedaç, l'agulla no li crema
+	tema: XXX					pregunta: MORTA ÉS LA GALLINA... que ponia els ous d’or							alternatives: mort el gall, que ponia ous, que passava fred, que ous no ponia
+	tema: XXX					pregunta: PUÇA XICA... set picades												alternatives: sis picades, cinc picades, dues picades, no pica
+	tema: XXX					pregunta: BEU-TE AQUEST OU... que l’altre es cou								alternatives: que l'altre no cou, i després el brou, i prou, que no és nou
+	tema: XXX					pregunta: QUI OLI MESURA... els dits se n’unta									alternatives: oli unta, els dits li patinen, no es belluga, troba ternura
+	tema: XXX					pregunta: PAÍS DE FIRES... país d’alegries										alternatives: país de figues, país de figures, país de vinyes, país d'amistats
+	tema: XXX					pregunta: REUNIÓ DE PASTORS... ovelles mortes									alternatives: reunió d'ovelles, llops contents, no hi ha acords, ovelles contentes
+	tema: XXX					pregunta: RODA EL MÓN... i torna al Born										alternatives: tot el dia, i torna a casa, i marxa del Born, al voltant del Sol
+	tema: XXX					pregunta: COSA PROMESA... sigui atesa											alternatives: no cal pressa, cosa perduda, cosa desitjada, no vol tempesta
+	tema: XXX					pregunta: EL QUE NO SÓN PESSETES... són punyetes								alternatives: són euros, són pedretes, no són orenetes, són raquetes
+	tema: XXX					pregunta: L'HOME PROPOSA... i Déu disposa										alternatives: i Déu no ajuda, i no disposa, i Déu posposa, i la dona posposa
+	tema: XXX					pregunta: NO LA FACIS... no la temis											alternatives: no la busquis, si no la vols, si en saps, no la trenquis
+	tema: XXX					pregunta: FUIG ESPARVER... que l’àguila ve										alternatives: que el cocodril ve, que el tauró ve, que el lleó ve, que la tempesta ve
+	tema: XXX					pregunta: BÉ LLIGAVA LA MULA... i la lligava per la cua							alternatives: amb corda i candau, que no es belluga, que no es mulla, i li estirava la cua
+	tema: XXX					pregunta: DE BEN NASCUT ÉS... ser agraït										alternatives: ser alegre, ser simpàtic, ser dolent, ser amic
+	tema: XXX					pregunta: LA DONA BORRATXA I EL VI AL CELLER, TOT... no pot ser					alternatives: pot ser, al febrer, no ho vulguis, demana temps
+	tema: XXX					pregunta: QUAN AL CEL HI HA BASSETES... a la terra hi ha pastetes				alternatives: a la terra plou, a l'infern hi fan punyetes, tot són pedretes, tot són núvols
+	tema: XXX					pregunta: QUAN EL DIMONI NO SAP QUÈ FER... amb la cua mata mosques				alternatives: surt al carrer, amb la cua mata ocells, empipa a la gent, buida el celler
+	tema: XXX					pregunta: ANY COMENCEM... la fi en vegem										alternatives: any acabem, festa vulguem, amistat trobem, al gimnàs ens apuntem
+	tema: XXX					pregunta: AMB BONA MAR... tothom és bon mariner									alternatives: vela no cal, tothom fa surf, rem de fusta, tothom es banya
+	tema: XXX					pregunta: QUI DE JOVE NO TREBALLA... quan és vell dorm a la palla				alternatives: de gran passa gana, de gran es baralla, té molts amics, no li calen estudis
+	tema: XXX					pregunta: FEINA FUIG... mandra no em deixis										alternatives: mandra fuig, i porta diners, i anem de festa, i no tornis
+	tema: XXX					pregunta: CADA DIA S’APRENEN... coses noves										alternatives: coses de cuina, coses velles, refranys, frases fetes
+	tema: XXX					pregunta: CADASCÚ SE SENT... dels seus mals										alternatives: milionari, agraït, com vol ser, com es troba
+	tema: XXX					pregunta: TAL LA MARE... tal la filla											alternatives: tal fill, tal lladre, tal pare, tal oncle
+	tema: XXX					pregunta: MÉS VAL CAURE EN GRÀCIA... que ser graciós							alternatives: que ser de Gràcia, que ser fals, que caure de peu, que ser odiat
+	tema: XXX					pregunta: A SANTS I A MINYONS no els prometis... si no els dons					alternatives: si no en tens, si vols petons, si busquen raons, si demanen diners
+	tema: XXX					pregunta: PEL JULIOL... sega qui vol											alternatives: sega qui pot, corre qui vol, es banya qui vol, va a l'escola qui vol
+	tema: XXX					pregunta: ESMORZAR DE REI dinar de príncep i... sopar de pidolaire				alternatives: sopar de jutge, sopar de doctor, sopar de bisbe, sopar de soldat
+	tema: ajudar i enredar		pregunta: Per baixar tots els sants ajuden... i el dimoni empeny				alternatives: i empenyen, i el dimoni enreda,  i no t'empenyen, i Déu mira
+	tema: amics i enemics		pregunta: A l'amic i al cavall... no els cansis 			alternatives: no els canviïs mai, cuida'ls fins a la mort, vigila de no fer-los-hi mal, tingue'ls ben a prop
+	tema: amor i desamor	    pregunta: De grans amors... grans dolors    		alternatives: grans moments, grans traïdors, petites cures, grans vergonyes
+	tema: aire i vent		    pregunta: De vent, el més bo... és dolent       		alternatives: és blanc i fi, és suau i calmant, és converteix en pobre, no és gran cosa
+	tema: XXX					pregunta: A LES PENES, punyalades, i als disgustos... gots de vi					alternatives: gots d'aigua, enemics, busca amics, gots de cava
+	tema: XXX					pregunta: DELS PECATS DELS PARES... els fills en van geperuts					alternatives: els fills en fugen, els avis en paguen les conseqüències, els néts en paguen deutes, els fills en volen
+	tema: XXX					pregunta: AMB LLUNA CREIXENT... sembra la gent									alternatives: tot és vent, aigua i vent, marxa la gent, plora la gent
+	tema: XXX					pregunta: A CAL PENJAT... no diguis corda										alternatives: no diguis blat, no diguis gat, no diguis fil, demana aire
+	tema: XXX					pregunta: DIA CURT... peix llarg												alternatives: any llarg, any curt, setmana llarga, peix curt
+	tema: XXX					pregunta: PER TOTS SANTS... panellets i castanyes								alternatives: tots som sants, panellets i sardines, castanyes i xocolata, no es fan rams
+	tema: XXX					pregunta: Més content que... un nen amb sabates noves							alternatives: una patena, un nen amb gorra nova, una puça, un nen amb camisa nova
+	tema: XXX					pregunta: Carregat com... un ruc												alternatives: un cavall, un criat, un camió, un carretó
+	tema: XXX					pregunta: Més llarg que... un dia sense pa										alternatives: una llonganissa, un Sant Pere i Sant Pau, un dia sense vi, un dia sense sopa
+	tema: XXX					pregunta: Pitjor el remei... que la malaltia									alternatives: que l'enemic, que ell, que la solució, que la penitència
+	tema: XXX					pregunta: A la millor filadora... li cau el fus									alternatives: li cau l'agulla, li falta fil, li falta agulla, li falta el fus
+	tema: XXX					pregunta: No tenir cap ni... peus												alternatives: mans, ulls, nas, boca
+	tema: XXX					pregunta: EN AQUEST MÓN DE MONES... hi ha més bèsties que persones				alternatives: tot són persones, no hi ha persones, hi ha menys bèsties que persones, tot són bèsties
+	tema: XXX					pregunta: Qui té el rellotge avançat... sempre fa tard							alternatives: és de Mallorca, mai fa tard, no el compra a Suïssa, arriba aviat
+----------
+
+Nivell 10:
+
+	tema: XXX	pregunta: A cada casa couen...        	  faves								      	alternatives: butifarres, pèsols, patates, el que poden
+	tema: XXX	pregunta: A ca gros no li diguis...          quisso       							alternatives: gras, que no el vols, adéu, gosset
+	tema: XXX	pregunta: A can Belluga...                    campi qui puga     					alternatives: tothom es belluga, fan balleruga, hi viu en Poruc i na Poruga, calla i ajuda. 
+	tema: XXX	pregunta: A can Diumenge qui no treballa...          no menja       				alternatives: no fa res, no celebra, no fa festa, és qui menja  
+	tema: XXX	pregunta: A can Marçal, la gallina...          comanda el gall       				alternatives: viu al corral, té gust de pardal, viu sense gall, és la vídua del gall
+	tema: XXX	pregunta: A carn dura...          dent aguda       									alternatives: cuiner trist, carnisser trist, ganivet afilat, no li posis sal
+	tema: XXX	pregunta: A casa d'en Margall més mana...          la gallina que el gall    		alternatives: la Maria que en Pasqual, la mestressa que el general, un porc que un gall, el de sota que el de dalt   
+	tema: XXX	pregunta: A cel núvol...          mariner serè     									alternatives: pluja, pardal no fa vol, mariner nerviós, dia fosc 
+	tema: XXX	pregunta: A cop calent...          el mal no se sent     						 	alternatives: el mal és creixent, posa-t'hi fulles, fes el valent, no plora el valent
+	tema: XXX	pregunta: A cop de mar...          cap serè       									alternatives: vaixell enfonsat, mariner preocupat, capità sense cap, mariner enfeinat
+	tema: XXX	pregunta: A culpa grossa...          presó poca       								alternatives: festa grossa, el jutge hi fa la vista grossa, el malvat s'hi gronxa, més diners a la bossa  
+	tema: XXX	pregunta: A darrere el taulell...          val més el jove que el vell       		alternatives: val més no mostrar l'anell, hi presumeix més ella que ell, val més qui ven menys, ven més qui en sap menys 
+	tema: XXX	pregunta: A diners pagats...          braços cansats       							alternatives: braços treballant, grans treballs, cames cansades, els treballs no es fan 
+	tema: XXX	pregunta: Adobant-se va na Joana...          i fila de mala gana       				alternatives: i fila amb més gana, i fila més llana, i fila més galana, i ni fila ni és galana
+	tema: XXX	pregunta: A dona bonica...          marit gelós       								alternatives: tot li és més fàcil, tot li va bé, marit perfecte, marit petit
+	tema: XXX	pregunta: A dona de cançons...          home de coloms       						alternatives: no li cal ràdio, home músic, homes per donar i vendre, home ballador
+	tema: XXX	pregunta: A donar...          sempre hi som a temps       							alternatives: sempre hi ha gent, mai triguis, sempre s'hi guanya, mai t'hi dediquis
+	tema: XXX	pregunta: Advocat jove...          plet perdut       								alternatives: plet guanyat, no fa la feina, treballa més que advocat vell, el plet dura anys  
+	tema: XXX	pregunta: A fills petits, treballs petits; a fills grans...       treballs grans  	alternatives: no hi ha treballs, treballs petits, solucions petites, solucions grans
+	tema: XXX	pregunta: A fira, qui res no hi porta...          hi tira       					alternatives: res no hi rifa, res no hi fira, hi fa figa, millor que millor
+	tema: XXX	pregunta: A gallina forastera...          tots la piquen       						alternatives: no li diguis gallina, digues-li amiga, tots la volen, cassola i festa
+	tema: XXX	pregunta: A gat vell...          rata jove       									alternatives: rata vella, gata amiga, rata com ell, gata com ell
+	tema: XXX	pregunta: Àguila a terra...          dóna poca guerra 								alternatives: no vola, res no esguerra, ni vola ni fa niu, no t'hi acostis
+	tema: XXX	pregunta: Agulla i fil fan durar...          per mil  								alternatives: poc temps la roba, la roba, el que dura el fil, fins l'abril
+	tema: XXX	pregunta: Ah, l'ase de casa...          també ho fa   								alternatives: també ho sap, també canta, també brama, també balla
+	tema: XXX	pregunta: Ai de l'espardenya...          que es torna sabata 						alternatives: que no té betes, que no té sola, que no té parella, que es casa amb una sabata
+	tema: XXX	pregunta: Ai, Déu meu, el pare és mort...          i jo seré l'hereu       			alternatives: i jo no vull ser orfe, i l'haurem d'enterrar, i les campanes toquen, i jo no m'ho esperava 
+	tema: XXX	pregunta: Aigua corrent...          aigua innocent       							alternatives: no s'atura, és un bon detergent, no espanta la gent, fa bo l'aiguardent 
+	tema: XXX	pregunta: Aigua d'agost, safrà...          mel i most       						alternatives: mel i botigues plenes, mel i moltes penes, canyella i altres espècies, i moltes espècies
+	tema: XXX	pregunta: Aigua de gener mata...          l'usurer      							alternatives: de gana i de set, aquell que viu de la gent, el banquer, la gallina al galliner
+	tema: XXX	pregunta: Aigua de gener...          omple bótes i graner   						alternatives: omple les botigues de gent, omple garrafes, cau a terra, plou del cel 
+	tema: XXX	pregunta: Aigua de juliol...          cap pagès la vol      					 	alternatives: ningú la busca, el pagès la vol, el pagès canta molt, el pagès la dóna al cargol 
+	tema: XXX	pregunta: Aigua de maig i plors de bagassa...          en un punt passa       		alternatives: en fan un gra massa, duren llarga estona, mai no s'acaben, molt s'allargassa
+	tema: XXX	pregunta: Aigua dorment... aigua pudent       										alternatives: aigua corrent, aigua blava, aigua adorable, aigua tranquil·la
+	tema: XXX	pregunta: Aigua fresca...          fa bon ull       								alternatives: fa bona boca, fa bon nas, fa bona orella, fa bon gust
+	tema: XXX	pregunta: Aigua i foc...          no es neguen a ningú       						alternatives: no es donen a ningú, guarda-te'ls per a tu, avui per a mi i demà per a tu, no són amics
+	tema: XXX	pregunta: Aigua i foris...          que de vi no en plou       						alternatives: que de vi no en sobra, que de vi no en vull, que l'aigua és bona, que la pluja és bona 
+	tema: XXX	pregunta: Aigua i pa...          sopes farà       									alternatives: ni sopes ni soparàs, ni sopa ni dina, soparàs i dinaràs, sopes i dines
+	tema: XXX	pregunta: Aigua, ni tan freda que geli...          ni tan calenta que peli       	alternatives: ni tan tèbia que no serveixi, ni fu ni fa, ni tan calenta que s'evapori, ni tan calenta com la crema   
+	tema: XXX	pregunta: Aigua passada...          no mou molí       								alternatives: ni passa ni ha passat, no mou castell, no es mou massa, mou molins
+	tema: XXX	pregunta: Aigua, Senyor...          que de vi ja en venen       					alternatives: que de vi no en plou, que de vi no en vull, que l'aigua m'agrada, que l'aigua m'agrada i el vi no
+	tema: XXX	pregunta: Aigües de gener...          cada gota val un diner       					alternatives: cada gota no val res, cada gota val molt o res, cada gota cau una darrere l'altra, cauen de gota en gota 
+	tema: XXX	pregunta: A molt vent  ... poca vela       											alternatives: la vela cau, tempesta curta, molta onada, poca gent	
+	tema: XXX	pregunta: Aprofita't del bon vent ... que en pot venir de dolent       				alternatives: o mai hi arribaràs, que en pot venir de l'orient, que en vindrà d'occident, i fes moure la barca
+	tema: XXX	pregunta: Abril, Abriló, de cent... un de bo       									alternatives: deu mil de bons, quatre de bons, val més un most, només se'n salven uns deu
+	tema: XXX	pregunta: Comptes vells...          baralles noves       							alternatives: pau a la porta, baralla de cartes, calma i barca nova, baralles entre parents
+	tema: XXX	pregunta: A la primera, perdó; a la segona...          bastó       					alternatives: més perdó, no hi ha perdó, clatellada al crostó, ningú perdona 
+	tema: XXX	pregunta: A taula!...          santa paraula       									alternatives: que és l'hora, que ja està parada, que ja hi som tots, quina passada
+	tema: YYY   pregunta: 		Sant Nicolau obre les festes... amb clau            				alternatives: amb el cap, amb barret al cap , com un babau, amb candau
+----------
+
+Nivell 11:
+
+tema: YYY   pregunta:  Qui canta a la taula i es pixa al llit... no té el seny complit 	    alternatives: és un nen petit, és un mal educat, no té el seny petit, té el seny adormit
+tema: YYY   pregunta:  A la casa on hi ha un vell... no hi faltarà un consell				alternatives: s'hi olora diferent, hi falta consell, no hi haurà jovent, la mort hi ronda
+tema: YYY   pregunta:  A la mort, ni témer-la... ni buscar-la								alternatives: ni esquivar-la, ni burlar-la, ni matar-la, ni vacil·lar-la
+tema: YYY   pregunta:  A qui té males puces... no li vagis amb murgues						alternatives: és un animal, no li parlis, diga-li gos, és un gos
+tema: YYY   pregunta:  Al bé, buscar-lo; al mal... espantar-lo								alternatives: buscar-lo, esquivar-lo, trampejar-lo, estimar-lo
+tema: YYY   pregunta:  Al so que toquen... balla											alternatives: canta, juga, plora, viu
+tema: YYY   pregunta:  Beata bruixa, que amaga el peu... i mostra la cuixa                 	alternatives: i mostra la cara, i mostra el braç, i amaga la cuixa, i amaga la panxa
+tema: YYY   pregunta:  Casa d'altri sol criticar... qui la seva no sap arreglar            	alternatives: qui no la sap arreglar, qui la seva no coneix, qui en té enveja, qui no és amic
+tema: YYY   pregunta:  Davant d’un forrellat... tothom és honrat        				    alternatives: tothom té barret, ningú és honrat, tothom fa mandres, ningú porta barret
+tema: YYY   pregunta:  Avui hi som i demà... Déu dirà            							alternatives: no hi serem, ja ho veurem, Déu no hi serà, també
+tema: YYY   pregunta:  Com més anys... més desenganys            							alternatives: més animals, més vells, menys desenganys, menys vells
+tema: YYY   pregunta:  Com més vell... més pell            									alternatives: més animal, menys pell, més calb, menys savi
+tema: YYY   pregunta:  A pagès endarrerit... cap anyada no li és bona            			alternatives: tota anyada li és bona, ajuda'l, no l'ajudis, cap tractor li és bo
+tema: YYY   pregunta:  A vinya vella... amo nou            									alternatives: amo vell, terra bruta, amo jove, amo enfadat
+tema: YYY   pregunta:  Aigua de març... herba als sembrats            						alternatives: aigua passada, herba a la muntanya, fulles verdes, aigua estimada
+tema: YYY   pregunta:  Aigua vaig esperar... i tard vaig sembrar            				alternatives: i no vaig sembrar, per poder sembrar, i va ploure, i no va ploure
+tema: YYY   pregunta:  Al mal segador... la palla li fa destorb            					alternatives: bona cara, la palla li agrada, el Sol li fa destorb, el tractor li fa destorb
+tema: YYY   pregunta:  Al pagès doneu-li... cols            								alternatives: vi, pastanagues, alls i patates, aigua
+tema: YYY   pregunta:  Als mossos no els deguis massa... perquè et trauran de casa         	alternatives: perquè no t'ajudaran, perquè et tancaran, perquè et jutjaran, perquè et buscaran
+tema: YYY   pregunta:  Als porcs més lletjos... els millors glans                          	alternatives: el millor corral, els pitjors glans, els glans més grans, el pitjor corral
+tema: YYY   pregunta:  A bon mercat... vendràs doblat           							alternatives: vendràs la meitat, mal vendràs, no vendràs, mal compraràs
+tema: YYY   pregunta:  A bons ocis... mals negocis           								alternatives: mals amics, bons amics, molts negocis, tot són diners
+tema: YYY   pregunta:  A casa del paleta... mai la feina no està feta            			alternatives: tot està per fer, no hi ha totxos, paret de palla, la feina està feta
+tema: YYY   pregunta:  A casa del paleta... cent goteres a la teulada            			alternatives: no hi ha teules, cent forats, cent parets, la feina està feta
+tema: YYY   pregunta:  A darrera del taulell... val més el jove que el vell            		alternatives: més val dona que home, més val vell que jove, més val home que dona, molta paciència
+tema: YYY   pregunta:  A l'església per resar... a la plaça per tractar                    	alternatives: a la plaça per robar, a la plaça per ballar, a la plaça per cantar, a casa per dormir
+tema: YYY   pregunta:  Com de la nit al dia... del pescar a l'alegria            			alternatives: del pescar a la tristor, del jugar al perdre, de l'amor a l'odi, del plorar al riure
+tema: YYY   pregunta:  Deixa el llit en ser de dia... tindràs salut i alegria            	alternatives: i podràs treballar, tindràs son, si has dormit prou, només si fa Sol
+tema: YYY   pregunta:  De grans rialles... grans ploralles            						alternatives: grans amics, grans tristors, grans amors, grans baralles
+tema: YYY   pregunta:  Alegría, Carnestoltes... que demà és Cendra!                        	alternatives: que demà fa Sol!, que ens disfressem!, que ahir era Cendra!, que demà serà tard!
+tema: YYY   pregunta:  Aranya de dia... carta o alegria            							alternatives: mosca de nit, joc o tristor, mosquit de nit, no és amiga
+tema: YYY   pregunta:  Del mal que fan els llops... molt se n’alegren els corbs            	alternatives: els corbs se'n riuren, en neixen els corcs, ningú se n'aprofita, tots en pateixen
+tema: YYY   pregunta:  Diumenge massa alegre... setmana trista            					alternatives: setmana perfecta, dia trist, porta set dies al darrere, dilluns negre
+tema: YYY   pregunta:  El vellet, per un jorn d'alegria... té un any de plors            	alternatives: no té amics, en té dos de plors, dos jorns de plors, té un any de glòria
+tema: YYY   pregunta:  A casa de l'amic necessitat... vés-hi sense ser cridat           	alternatives: no hi vagis, tothom és benvingut, la mare no hi va, vés-hi si hi ets cridat
+tema: YYY   pregunta:  A l'amic, si el guanyes en el joc... guanya-li poc            		alternatives: guanya-li tot, no te'n riguis, torna-li tot, no li recordis
+tema: YYY   pregunta:  A l'animal que no coneguis... no li vagis per darrere            	alternatives: no l'anomenis, no t'hi acostis, vés-li per darrere, porta-li aigua
+tema: YYY   pregunta:  A la presó i al llit... es coneix el bon amic           				alternatives: no hi ha amic, es coneix l'enemic, un està sol, millor sol que acompanyat
+tema: YYY   pregunta:  Allà on no hi ha pa... no hi ha pau            						alternatives: hi ha alegria, no hi ha coques, hi ha pau, hi ha farina
+tema: YYY   pregunta:  Allà on va el bou... va el picarol            						alternatives: va el cargol, va el mussol, va la mula, va el dimoni
+tema: YYY   pregunta:  Als rics, no els falten... amics            							alternatives: enemics, diners, dones, fills
+tema: YYY   pregunta:  Amb el veïnat, bona amistat... i el portal tancat            		alternatives: i serenitat, i el portal obert, i compartir-ho tot, i molt soroll
+tema: YYY   pregunta:  Bé canta la Marta... quan està farta            						alternatives: quan està contenta, si està trista, si no treballa, si fa festa
+tema: YYY   pregunta:  Bé predica... qui bé viu            									alternatives: qui bé dorm, qui no fa el que diu, qui mal viu, qui bé parla
+tema: YYY   pregunta:  Ben fet o mal fet... ja està fet            							alternatives: ja ho farem, no ho deixis, no paris, tot costa
+tema: YYY   pregunta:  Boires per Nadal... no fan bé ni mal            						alternatives: fan molt de mal, pluja assegurada, neu tot l'any, pluja tot l'any
+tema: YYY   pregunta:  Figa verda i mossa d'hostal... palpant maduren            			alternatives: no maduren, sempre són verdes, el cuc hi viu, són dolces
+tema: YYY   pregunta:  A qui res li escau... poseu-li blau            						alternatives: poseu-li groc, poseu-li blanc, poseu-li gris, poseu-li verd
+tema: YYY   pregunta:  Abans et quedis manc... que firmar un paper en blanc           		alternatives: que a un amic abandonar, que firmar un autògraf, que firmar el divorci, que firmar la guerra
+----------
+
+Nivell 12:
+
+tema: YYY   pregunta:  Al burro vell... poc verd            								alternatives: molt verd, poc pes, moltes amanides, tot són puces
+tema: YYY   pregunta:  Al verd... l'amor s'hi perd            								alternatives: tot s'hi perd, poseu-li verd, l'amor s'hi posa, l'amor li escau
+tema: YYY   pregunta:  Cabells blancs i armes... guanyen batalles            				alternatives: perden batalles, com més lluny millor, no en vulguis, mala combinació
+tema: YYY   pregunta:  Cara vermella... cara de vi            								alternatives: cara estimada, cara pigada, noia pèl-roja, cara de pa
+tema: YYY   pregunta:  Casa negra... llum encesa            								alternatives: casa tancada, llum tancada, porta oberta, teulada vermella
+tema: YYY   pregunta:  Cel roig al matí... pluja en camí            						alternatives: pluja a la nit, Sol tot el dia, pluja o vent, vent al camí
+tema: YYY   pregunta:  De pèl roig... ni gat ni porc            							alternatives: cara estimada, ni gat ni gos, ni ase ni bèstia, la gent fa goig
+tema: YYY   pregunta:  Airet de matinada... s'endú la rosada            					alternatives: deixa rosada, no fa rosada, refresca la cara, empipa a la cara
+tema: YYY   pregunta:  A jugar i perdre... pagar i callar           						alternatives: pagar i resar, apostar i callar, creure i marxar, marxar i callar
+tema: YYY   pregunta:  Alaba't, ruc... que a la fira et duc            						alternatives: que de bon vendre ets, que de la fira véns, que a l'era et duc, que bon servent ets
+tema: YYY   pregunta:  A la casa on es treballa... mai hi falta pa ni palla            		alternatives: mai hi falta or ni plata, sempre hi trobes roba bruta , sempre hi enreda la mainada, mai ningú jeu a la palla
+tema: YYY   pregunta:  A la casa on no entra el sol... hi entra el metge            		alternatives: hi falta alegria, hi manca energia, tot són ombres, tot és foscor
+tema: YYY   pregunta:  A la fira del bestiar... hi va el pastor com el rabadà            	alternatives: tot són bèsties i animals, hi va tothom a comprar , tothom és negociador , hi va el pagès a triar
+tema: YYY   pregunta:  A l'agost bull el mar... i bull el most            				    alternatives: i bull el cos, per culpa del Sol, i bull el vi, i bull l'aigua al foc
+tema: YYY   pregunta:  A l'agost... figues i most            								alternatives: figues i vi, raïm i most, alegries i amors, no facis el gos 
+tema: YYY   pregunta:  A la llum de la llàntia... mentides mil            					alternatives: ombres arreu, no busquis detalls, cares de por, li cal oli
+tema: YYY   pregunta:  A la mar no hi ha teu ni meu... tot és teu i tot és meu            	alternatives: tot és meu, tot és seu, tot és teu, tot és res
+tema: YYY   pregunta:  A la peresa doneu-li... sopes            							alternatives: cop d'escombra, un bon llit, energia, pasta
+tema: YYY   pregunta:  A la plaça... no parlis massa            							alternatives: no hi vagis de caça, tothom s'hi troba, reunió de savis, mercats diaris
+tema: YYY   pregunta:  A la sopa del convent tant n'hi mengen... vint com cent            	alternatives: dos com cent, cinc com cent, cinc com dos-cents , vint com dos mil
+tema: YYY   pregunta:  A la tardor, el dia porta... espardenyes            					alternatives: xancletes, poca claror, molta llum, poca llum
+tema: YYY   pregunta:  A la tardor... ni fred ni calor            							alternatives: tot canvia de color, ni alegria ni tristor, tot és tristor, ni pluja ni neu
+tema: YYY   pregunta:  A la taula de la sort... qui no juga és home mort            		alternatives: qui juga ja és mort, hi juga tothom, tots som jugadors , qui pregunta no té sort 
+tema: YYY   pregunta:  A la terra de Cucanya, qui més hi dorm... més hi guanya            	alternatives: menys hi guanya, més descansa, no guanya, té més mandra 
+tema: YYY   pregunta:  Després de mi... el diluvi            								alternatives: el padrí, ve el cosí, desapareix el camí, la pluja
+tema: YYY   pregunta:  A la vellesa el diable... es va fer sabater            				alternatives: no va saber què fer, va perdre poder, es va fer forner, es va fer comptable
+tema: YYY   pregunta:  A la vora del riu... no hi facis el niu            					alternatives: tot és moll, fes-hi el niu, tota cuca hi viu, cap cuca hi viu
+tema: YYY   pregunta:  Alba emboirada... sol de vesprada            						alternatives: nit apagada, llum acabada, lluna amagada, vent de vesprada
+tema: YYY   pregunta:  Al ball del tururut qui gemega... ja ha rebut            			alternatives: hi és benvingut, no és rebut, no és volgut, és boig
+tema: YYY   pregunta:  Al cau dels conills el que fan els pares... fan els fills           	alternatives: és dolent per als fills, és per als fills, ho feien els avis, és dolent
+tema: YYY   pregunta:  Al cel anem... i no frisem           								alternatives: i no baixem, i en tornem, i frisem, i no en fugim
+tema: YYY   pregunta:  Al caigut... dóna-li la mà            								alternatives: no l'aixequis, no l'ajudis, pica-li la cresta, deixa'l a terra
+tema: YYY   pregunta:  Al clavell... l'amor amb ell            								alternatives: morenet, la tristor amb ell, diga-li vell, posa-li aigua
+tema: YYY   pregunta:  Al cor ingrat... Déu lo mat           								alternatives: l'amor lo mat, no hi ha amistat, el dimoni lo mat, l'amic lo mat
+tema: YYY   pregunta:  Al cul de sac es troben... les engrunes            					alternatives: les coses bones, les flors, les patates, les pomes
+tema: YYY   pregunta:  Alegria amagada... candela apagada            						alternatives: amistat apagada, amor apagat, candela encesa, amistat encesa
+tema: YYY   pregunta:  A les barbes amb diners... honors fan els cavallers            		alternatives: honors fan els reis, honors fan els pobres, tristors fan els reis, plors fan els cavallers
+tema: YYY   pregunta:  A les dotze de la nit corre... el diable sota el llit            	alternatives: Déu sota el llit, cap al llit, el pallasso sota el llit, i surt de festa
+tema: YYY   pregunta:  A les festes treballar... és perdre i no guanyar            			alternatives: i no cantar, és guanyar i no perdre, és manera de guanyar, i no ballar
+tema: YYY   pregunta:  A l'esquena hi porto un sac... on tot m'hi cap            			alternatives: de pedres, on res m'hi cap, de flors, d'enemics
+tema: YYY   pregunta:  A l'estiu la formiga... surt del niu            						alternatives: fa el niu, dorm dins el niu, treballa, dorm al sol
+tema: YYY   pregunta:  Al febrer... l'oliva aixecaré            							alternatives: tota cuca viu, l'arròs aixecaré, el càntir aixecaré, la poma menjaré
+tema: YYY   pregunta:  Alforges plenes... treuen les penes            						alternatives: treuen les alegries, treuen els amics, porten les penes, fan molt pes
+tema: YYY   pregunta:  Al forn i al rentador es diu... tot el mal i tot el bo            	alternatives: el pecador, l'amic i l'enemic, el pecat i el pecador, tot lo bo
+tema: YYY   pregunta:  Al gelós una puça... li sembla un ós            						alternatives: li sembla un gos, li sembla un gat, li sembla un os, l'espanta
+tema: YYY   pregunta:  Al gos i al gat no els posis... el mateix plat            			alternatives: el mateix menjar, el mateix barret, la mateixa corretja, el mateix nom
+tema: YYY   pregunta:  Alguna cosa deu tenir l'aigua... quan la beneeixen            		alternatives: que no té el vi, quan la regalen, quan la filtren, quan cau del cel
+tema: YYY   pregunta:  Alguna cosa és, digué en veure... un os el llebrer            		alternatives: una pedra al riu, una pedra al camí, un os al camí, una formiga el llebrer
+tema: YYY   pregunta:  A l'hivern, bona sopa... i vi calent           						alternatives: i aigua, i suc de pinya, i carn de xai, i vi blanc
+----------
+
+Nivell 13:
+
+tema: YYY   pregunta:  A l'hivern, boirina... i neu per veïna            					alternatives: i pluja, i aigua per veïna, i vent per veí, i rosada per veïna
+tema: YYY   pregunta:  A l'hivern el millor amic... és un abric            					alternatives: és el foc, és el Sol, és un llençol, és l'enemic
+tema: YYY   pregunta:  A l'home vell mudeu-li l'aire i... hi deixarà la pell            	alternatives: dormirà, no pencarà, ajudarà, ballarà
+tema: YYY   pregunta:  A l'home vell no li posis... gros farcell            				alternatives: aigua al vi, la sopa calenta, gaire vi, gros barret
+tema: YYY   pregunta:  A l'hort i al celler... no hi vulguis parcer            				alternatives: no hi vagis, no hi vulguis muller, no hi vulguis pagès, no hi vulguis fer res 
+tema: YYY   pregunta:  A l'hort li va bé... el formiguer            						alternatives: que no hi hagi formiguer, el pomer, el talp, que nevi
+tema: YYY   pregunta:  A l'hort on hi ha ruda... les plantes tenen fortuna            		alternatives: les plantes moren, els arbres broten, els animalons moren, les tulipes broten
+tema: YYY   pregunta:  Al juny, l'estiu... no és lluny            							alternatives: hi viu, és lluny, és més viu, porta calor
+tema: YYY   pregunta:  A Linyola rosten... la cassola            							alternatives: el plat, l'os, la carmanyola, la paella
+tema: YYY   pregunta:  On hi ha campanes... hi ha batalls            						alternatives: hi harà toca-campanes, hi ha campanars, hi ha soroll, no hi ha calma 
+tema: YYY   pregunta:  On hi ha galls... no hi canten gallines            					alternatives: hi canten les gallines, ningú canta, les gallines fan alegries, la guineu xiula
+tema: YYY   pregunta:  Allà on no hi ha... el rei hi perd            						alternatives: el rei hi guanya, el poble hi perd, tothom hi guanya, el cavaller hi perd
+tema: YYY   pregunta:  On no hi ha sang... botifarres no s'hi fan            				alternatives: hi ha alegria, calçotades no s'hi fan, paellades s'hi fan, hi ha pau
+tema: YYY   pregunta:  Al matiner... tot li surt bé            								alternatives: Déu l'ajuda, res li surt bé, li escau ser cuiner, tot ho sap fer
+tema: YYY   pregunta:  Al petit pescador... la mar gran li fa por            				alternatives: petit peix, petita barca, la mar gran li agrada, gran port li agrada
+tema: YYY   pregunta:  Al setembre... carbasses            									alternatives: faves tendres, la falç al puny, tot és tendre, gots de vi
+tema: YYY   pregunta:  Al Sol li diuen Llorenç i a la Lluna... Margarida            		alternatives: Rosalia, Albina, Catalina, Carmesina
+tema: YYY   pregunta:  A mala anyada... dóna-li passada           							alternatives: fot-li canya, mala guanyada, dóna-li temps, bona feina
+tema: YYY   pregunta:  A mal costum... trenca-li la cama            						alternatives: dóna-li passada, mal remei, trenca-li el braç, mal hàbit
+tema: YYY   pregunta:  Amb armes, dones i focs... no hi vulguis jocs            			alternatives: juga-hi molt, no hi vulguis amistat, vés a la fi del món, com més hi juguis, millor
+tema: YYY   pregunta:  Amb art i engany... es viu mig any            						alternatives: s'enganya tothom, es guanya l'amic, es viu tot un any, es viu per sempre
+tema: YYY   pregunta:  Amb els diners a les mans... els dimonis es fan sants            	alternatives: els sants es fan dimonis, tothom és ric, no s'hi juga, tot és bo de comprar
+tema: YYY   pregunta:  Amb el temps maduren... els raïms            						alternatives: les prunes, les pomes, els nens, les amistats
+tema: YYY   pregunta:  Amb paciència i una canya... tot es pesca            				alternatives: tothom s'enganya, tot es perd, res es pesca, peix petit es pesca
+tema: YYY   pregunta:  Amb paciència s'arriba... a jutge de l'Audiència            			alternatives: a Roma, a Andorra, al metge de guàrdia, a ser advocat
+tema: YYY   pregunta:  Amb un rellotge de sol... quan vols saber l’hora, plou           	alternatives: arribaràs a Sant Pol, mai pots saber l'hora, arribaràs tard, mai estaràs sol 
+tema: YYY   pregunta:  Ametller, no facis via... que gelarà qualque dia        		    	alternatives: que plourà qualque dia, que farà sol qualque dia, que ningú t'estima, que la pluja no arriba
+tema: YYY   pregunta:  Amic de vi, s'acaba l'amic... quan s'acaba el vi            			alternatives: quan es té vi, quan es té gana, quan hi ha cava, si es diu Enric
+tema: YYY   pregunta:  Amic i vi, com més vell... més fi            						alternatives: més negre, més enemic, més jove, millor
+tema: YYY   pregunta:  Amigues veïnes... les gallines            							alternatives: les padrines, bones amigues, tot són xafarderies, com més millor
+tema: YYY   pregunta:  A mi sí que tant me fa... si fa sol com si no en fa            		alternatives: si plou o neva, si vols venir o no, quantes ovelles tinguis, com es diu el rei o el papa
+tema: YYY   pregunta:  Amistat interessada... no dura una mesada           					alternatives: la més desitjada, la menys desitjada, dura llarg temps, sigui acabada
+tema: YYY   pregunta:  A mitges... no omplen sitges            								alternatives: no són senceres, no plantis vinyes, s'omplen sitges, tothom està content
+tema: YYY   pregunta:  A molt menjar... molt penar            								alternatives: poc pensar, poc penar, poc pair, molt dormir
+tema: YYY   pregunta:  Amor i vi a uns fa viure... i als altres morir            			alternatives: i als altres riure, i als altres dormir, i als altres plorar, i als altres ballar
+tema: YYY   pregunta:  Amors, penes i diners... no poden estar secrets            			alternatives: l'infern n'és ple, com més lluny millor, tothom en vol a milers, bons consellers
+tema: YYY   pregunta:  Anar a fira, gastar... i no comprar el que volia            			alternatives: i tenir alegria, i comprar el que volia, i comprar roba vella, i no cantar
+tema: YYY   pregunta:  A nau trencada... la mar plana li és temporal            			alternatives: nau arreglada, la mar plana li va bé, la mar plana no li agrada, patró a casa
+tema: YYY   pregunta:  Any de neu... any de Déu            									alternatives: any d'esquí, any de trineu, any per no fer res, any del dimoni
+tema: YYY   pregunta:  Anys, danys i desenganys... tornen els homes estranys           		alternatives: millor tots junts, tornen els homes savis, tornen els homes joves, com més lluny millor
+tema: YYY   pregunta:  A pagar, vés-hi a peu, a cobrar... vés-hi a cavall            		alternatives: no hi vagis mai, espera que vinguin, vés-hi amb ase, vés-hi més lent
+tema: YYY   pregunta:  A pesar del febrer... floreix l'ametller            					alternatives: mor l'ametller, cau l'ametller, floreix el pomer, plourà pelmarç
+tema: YYY   pregunta:  A poc a poc... s'encén el foc            							alternatives: es fan amics, s'encén la cal·lefacció, bull l'aigua, s'apaga l'estufa
+tema: YYY   pregunta:  A qui té sort... poc seny li basta            						alternatives: no li calen amics, doneu-li joc, molt seny li basta, molts amics li calen
+tema: YYY   pregunta:  Aranya per terra... tapa la gotera            						alternatives: telaranya al sostre, picada assegurada, mosquit volant, mosca volant
+tema: YYY   pregunta:  Arbres vells i bons amics... no en té qui vol            			alternatives: en té tothom, en té qui vol, no en té el pagès, en té el ric
+tema: YYY   pregunta:  Arbre transplantat... ha de ser regat            					alternatives: ha de ser abandonat, deixa'l morir, no ha de ser regat, no li cal aigua
+tema: YYY   pregunta:  Ase amb or... ho aconsegueix tot            							alternatives: ho perd tot, vigila'l, ho vol tot, té molts amics
+tema: YYY   pregunta:  L'ase d'Arcàdia... carregat d'or i menja palla            			alternatives: va carregat de palla, no té or i menja arròs, no té or i sembla ric, és més ràpid que tots
+----------
+
+Nivell 14:
+
+tema: YYY   pregunta:  Ase nafrat... tot són mosques            							alternatives: ase enfadat, menja palla, tot són badalls, no li vagis per darrere
+tema: YYY   pregunta:  Ase que brama... cent anys de perdó            						alternatives: ase que menja palla, ase que no vol palla, un any de sort, cent anys de mala sort
+tema: YYY   pregunta:  Ase sia... qui d’ase es fia            								alternatives: qui fa farina, qui no és savi, qui d'ase no es fia, qui no estudia
+tema: YYY   pregunta:  A tot arreu se’n fan... de bolets quan plou            				alternatives: d'amics bons, de bassals quan plou, de ninots de neu si neva, de glaceres si gela
+tema: YYY   pregunta:  Avellanes, ametlles i figues... són bones amigues            		alternatives: són males amigues, no dónen energia, no són de bon pair, són fruites antigues
+tema: YYY   pregunta:  Avui mengem... que demà ja ho veurem            						alternatives: que demà dormirem, que demà jugarem, que demà no podrem, i després ballem
+tema: YYY   pregunta:  Badallar de son... com el sastre Anton            					alternatives: com el doctor Anton, migdiada llarga, nit llarga, com el senyor Ramon
+tema: YYY   pregunta:  Badall no menteix... fam o son o avorriment            				alternatives: si es té son, perquè es fa amb la boca oberta, diversió garantida, got de llet i a dormir
+tema: YYY   pregunta:  Baralles de muller i marit... de la taula al llit            		alternatives: que no les escolti el petit, ben lluny del llit, millor fora de casa, duren cent anys
+tema: YYY   pregunta:  Barber mut... mai sia conegut            							alternatives: afaita l'altre, mai sia barber, mai sia amic, millor que geperut
+tema: YYY   pregunta:  Bastó tort... fa anar dret            								alternatives: fa caminar tort, fa caminar malament, no el vulguis, bastó vell
+tema: YYY   pregunta:  Béns de fortuna... muden com la Lluna            					alternatives: muden com el Sol, són dels savis, tindràs si jugues, cent anys de mala sort
+tema: YYY   pregunta:  Bé pots xiular... si l'ase no vol beure            					alternatives: si ja vols marxar, si l'ase vol beure, si no en saps, si ningú t'escolta
+tema: YYY   pregunta:  Bestiar de molts... el llop se'l menja           					alternatives: bestiar de ningú, el llop no el vol, del llop fa amistat, del llop se'n riu
+tema: YYY   pregunta:  Beure i bufar... no pot ser            								alternatives: tot és començar, multa a tocar, multa assegurada, ja pots resar
+tema: YYY   pregunta:  Bon abril i bon cavaller... molt escassos solen ser            		alternatives: males armes, molts en pots trobar, durs de pelar, com més lluny millor
+tema: YYY   pregunta:  Bona casa... bona brasa            									alternatives: bona lletra, bona paret, bona família, mala família
+tema: YYY   pregunta:  Bona és la dansa... i la casa es crema            					alternatives: que aixeca el vestit, i bona la casa, i la casa és una festa, i tothom content
+tema: YYY   pregunta:  Bona nit... i tapa't!                                				alternatives: i pentina't!, malparit!, i mal son, i fins l'any que ve!
+tema: YYY   pregunta:  Bona teca i bona cara... a ningú desagrada            				alternatives: a tothom enganya, fa de mal pensar, a tothom desagrada, alguna mala passada
+tema: YYY   pregunta:  Bon nas i bones orelles... bones velleses            				alternatives: fan bon compàs, males velleses, dona lletja, ase segur
+tema: YYY   pregunta:  Bon pa, bon vi i... bon dormir            							alternatives: bon pair, mal dormir, bon pastís, bon amic
+tema: YYY   pregunta:  Bossa buida... fa mal so            									alternatives: millor que plena, fa bon so, bona música, millor de paper
+tema: YYY   pregunta:  Brams d'ase... no arriben al cel            							alternatives: fan mal so, arriben al cel, molesten a tothom, fan riure
+tema: YYY   pregunta:  Brou de pa... mal no et farà            								alternatives: millor per sopar, mal et farà, millor per dinar, no és menjar
+tema: YYY   pregunta:  Burro mal esquilat... als deu dies igualat            				alternatives: burro espatllat, mai més és igualat, burro escabellat, barber disgustat
+tema: YYY   pregunta:  Caçador i pescador... o fam o fred o calor            				alternatives: o amic o enemic, com més lluny millor, no són amics del senyor, valen per dos
+tema: YYY   pregunta:  Cada ase s'enamora... del seu bram            						alternatives: del seu nas, del seu amo, del que sent bramar, dels brams dels animals
+tema: YYY   pregunta:  Cacera i pesquera... fam espera            							alternatives: lluny de la nostra terra, que es faci a la nostra terra, bona fartanera, alegria espera
+tema: YYY   pregunta:  Cada cosa al seu temps i al maig... cireres            				alternatives: diners, cada dia un raig, ases i someres, bolets
+tema: YYY   pregunta:  Cada cosa al seu temps i per Pasqua... panades            			alternatives: mones i moniatos, joguines, a dormir d'hora, ous de xocolata
+tema: YYY   pregunta:  Cada dia canvia el temps... i la persona a cada moment           	alternatives: i el turista a cada moment, i els amics com el vent, i l'animal ho intueix, i la casa a cada moment
+tema: YYY   pregunta:  Cada dia cols... amarguen            								alternatives: all i llimona, alegren la sopa, i bons amics, i dormir molt
+tema: YYY   pregunta:  Ca envejós... ni rosega ni deixa rosegar l'os            			alternatives: lladra molt, és ca de bona casa, no menja ni un os, menja gran os
+tema: YYY   pregunta:  Caga el rei, caga el papa... i caga aquell que no té capa           	alternatives: i la caga en Rajoy, però no caguis, i tu fes-ho a casa, però el pobre no caga
+tema: YYY   pregunta:  Cap fresc, ventre net... i peus calents            					alternatives: i cor valent, i peus freds, i mans fredes, i nas vermell
+tema: YYY   pregunta:  Capità sense argent... capità sense gent            					alternatives: capità valent, vol barca nova, capità amb massa gent, capità prudent
+tema: YYY   pregunta:  Carnestoltes... quinze voltes           								alternatives: deu voltes, moltes voltes, poques voltes, i rialles
+tema: YYY   pregunta:  Carn fa carn... i vi fa sang            								alternatives: i aigua fa sang, i vi fa pam, i enemic fa sang, i amic fa sang
+tema: YYY   pregunta:  Carn que creix... no pot estar quieta            					alternatives: no es podreix, es podreix, que estigui quieta, no envelleix
+tema: YYY   pregunta:  Casa amb corral... paradís terrenal            						alternatives: infern terrenal, infern d'animals, porc sense fang, casa arruïnada
+tema: YYY   pregunta:  Casa amb dues portes... mala de guardar            					alternatives: sempre oberta, bona de guardar, molts la volen, vella segur
+tema: YYY   pregunta:  Casa, la mia... per pobra que sia            						alternatives: per rica que sia, la més bonica, la més vella, per Santa Maria
+tema: YYY   pregunta: 		Casa escalfada... no tem hivern            						alternatives: casa arruïnada, casa cremada, no tem estiu, no tem tardor
+tema: YYY   pregunta: 		Cent anys fa que és mort el ruc... i encara el plora            alternatives: i encara el recorda, i ja no el recorda, i vol un cavall, i ja no plora
+tema: YYY   pregunta: 		Cent quimeres no paguen... un deute            					alternatives: la pena, un sopar, un jornal, un dinar 
+tema: YYY   pregunta: 		Com el cul d’en Jaumet... que no sap seure ni estar dret        alternatives: que no és ni gros ni estret, que és molt estret, que sempre està dret, que val per set
+tema: YYY   pregunta: 		Com el gos de l’hortolà... que no menja ni deixa menjar         alternatives: que pixa aquí i allà, que només vol menjar, que deixa tot el menjar, que no dorm ni deixa dormir
+tema: YYY   pregunta: 		Com el sastre Lleganya... que pren les mides amb una canya      alternatives: que pesca amb una canya, que fila amb una canya, que porta una banya, que a tothom enganya
+----------
+
+Nivell 15:
+
+ tema: YYY   pregunta: 		Tramuntana no té abric... home pobre no té amic            						alternatives: home ric no té amic, home gran no és home xic, home i dona no són amics, i l’enemic no és mai amic
+ tema: YYY   pregunta: 		Constipat suat... constipat curat            									alternatives: costipat començat, costipat empitjorat, febre segur, difícil de curar
+ tema: YYY   pregunta: 		Cor què vols... cor què desitges            									alternatives: cor què perds, cor què demanes, cor què estimes, cor què dius
+ tema: YYY   pregunta: 		Correu, correu, minyons... que l'olla cou cigrons            					alternatives: que ve l'hereu, que l'olla cou faves, que us crida l'hereu, que l'olla ja bull
+ tema: YYY   pregunta: 		Costa més alimentar un vici... que criar dos fills            					alternatives: que una virtut, que criar vint porcs, que criar ovelles, que matar-ne dos
+ tema: YYY   pregunta: 		Costa més de guardar dues filles... que un prat de formigues            		alternatives: que els diners guanyats en fires, que un exèrcit, que un sac d'or, que una olla de cols
+ tema: YYY   pregunta: 		De fora vingueren... que de casa ens tragueren            						alternatives: i a casa tornaren, que de l'escola ens tragueren, que de la presó ens tragueren, que ho enredaren tot
+ tema: YYY   pregunta: 		Del bon estiu... el pagès en viu            									alternatives: la cuca en viu, el metge en viu, el bomber en viu, el caçador en viu
+ tema: YYY   pregunta: 		De les sobres... se’n fan obres            										alternatives: se'n fan mones, se'n fan coques, fem-ne canelons, en fem sopes
+ tema: YYY   pregunta: 		Dels sants de gener... Sant Antoni és el primer            						alternatives: Sant Antoni és el darrer, Sant Joan és el primer, Sant Pau és el primer, Sant Jaume és el primer
+ tema: YYY   pregunta: 		De Nadal a Carnestoltes... set setmanes desimboltes            					alternatives: males notes, cinquanta dies, vint setmanes desimboltes, es fan masses voltes
+ tema: YYY   pregunta: 		De Nadal a Sant Esteve... durarà la bondat teva            						alternatives: durarà la maldat teva, passarà un dia, durarà la treva, durarà la bondat meva
+ tema: YYY   pregunta: 		De Nadal i Sant Joan... només n’hi ha un cada any            					alternatives: només n'hi ha un parell, només n'hi ha un cada mig any, només n'hi ha a Catalunya, no n'hi ha gaires
+ tema: YYY   pregunta: 		De nusos n'hi ha... per a tots els usos            								alternatives: per a tots els gustos, per a totes les feines, per a pocs usos, però no se'n fan
+ tema: YYY   pregunta: 		De petitet es cria... l'arbre dret            									alternatives: l'arbre tort, l'arbre gros, l'arbre petit, el que s'ha de criar
+ tema: YYY   pregunta: 		De por i de fred... qui més se'n posa més n'admet            					alternatives: qui més se'n treu més en perd, qui més en té més en sent, qui més plora més en té, en té tothom
+ tema: YYY   pregunta: 		De prop o de lluny... Corpus pel juny            								alternatives: Corpus pel maig, Nadal pel juny, Carnestoltes pel juny, Corpus retruny
+ tema: YYY   pregunta: 		De Sant Joan a Nadal... mig any cabal            								alternatives: mig any fa l'animal, un any cabal, tres passos d'animal , no facis l'animal
+ tema: YYY   pregunta: 		De Sant Martí a Sant Andreu... tres setmanes trobareu            				alternatives: tres setmanes no trobareu, vint setmanes trobareu, tots plorareu, alguna cosa trobareu
+ tema: YYY   pregunta: 		Desgraciat l’animal que entra... dins la boca d’un altre            			alternatives: a casa d'un altre, a la vida d'un altre, als ulls d'un altre, a un corral que no és seu
+ tema: YYY   pregunta: 		Després de festa... pesta            											alternatives: fes-te fotre, ve la gresca, arriba la diversió, arriba la pena
+ tema: YYY   pregunta: 		De tard o de primer... Carnestoltes pel febrer            						alternatives: Carnestoltes pel gener, Nadal pel febrer, Pasqua pel gener, Carnestoltes és el darrer
+ tema: YYY   pregunta: 		De tota dolença... és remei la paciència            							alternatives: no és remei la paciència, és remei la demència, oli en un llum la ciència, en cura la ciència 
+ tema: YYY   pregunta: 		De tot hi ha... a la vinya del Senyor            								alternatives: a la vinya del Mateu, a la vinya de l'Andreu, a tot arreu, al menjador del Senyor
+ tema: YYY   pregunta: 		Déu dóna pa... a qui no té dents           							 			alternatives: a qui té moltes dents, a qui no té gana, a qui no té ulls, a qui no té res 
+ tema: YYY   pregunta: 		Déu ens guardi de l'espardenya... que es torna sabata            				alternatives: que vol ser sabata, bruta, sense cordons, de set brenys
+ tema: YYY   pregunta: 		Déu ens guardi d'un mal veí... i d’aprenent de violí            				alternatives: i d'aprenent de piano, i d'un virtuós del violí, i de músic d'orquestra, i d'aprenent de manobre
+ tema: YYY   pregunta: 		Dona casada... guitarra espatllada            									alternatives: guitarra arreglada, té gran espatlla, violí a l'espatlla, arregla guitarres
+ tema: YYY   pregunta: 		D'on no h'hi ha... no en raja          		 				 					alternatives: no n'hi ha, en raja, potser en raja, no vulguis treure'n
+ tema: YYY   pregunta: 		—D’on sou, cavaller?... —De la terra de ma muller            					alternatives: —De la terra de ma tia, —De Tarragona, —D'on em porti ma muller, —De casa meva
+ tema: YYY   pregunta: 		Dos gats i una gata... no faltarà serenata            							alternatives: no hi haurà serenata, no faltarà nata, organitzen un sarau, fan ball a l'escala
+ tema: YYY   pregunta: 		Dos homes i una ceba... fan mercat            									alternatives: fan tres, són tres verdures, ploren a taula, s'esbarallen a la cuina
+ tema: YYY   pregunta: 		D'un mànec de granera... en van sortir set bales            					alternatives: en van sortir rates, en van sortir balins, en van sortir pinyols, no en pot sortir res
+ tema: YYY   pregunta: 		El bé no fa soroll... i el soroll no fa bé            							alternatives: i el mal tampoc, com el silenci, com tothom sap, i el soroll fa molt de bé
+ tema: YYY   pregunta: 		El bon pescador... no perd mai calada            								alternatives: no perd mai la calma, no perd mai la canya, no perd mai la barca, ho perd tot
+ tema: YYY   pregunta: 		El bon vi... parla llatí            											alternatives: és molt bo, no pot ser aigua, parla anglès, no parla llatí
+ tema: YYY   pregunta: 		El bou per la banya... i l’home per la paraula            						alternatives: i l'home per la banya, i l'home no té banya, i la dona per la falda, i l'home per on puguis
+ tema: YYY   pregunta: 		El burro sempre va... al davant           										alternatives: al costat de qui parla, al final de tot, on pot, en fila índia
+ tema: YYY   pregunta: 		El calendari nou... treu el vell de casa            							alternatives: entra a principis d'any, treu els llibres de casa, no pot ser de l'any passat, dura un any
+ tema: YYY   pregunta: 		El cavall de Sant Martí... que va viure fins que va morir            			alternatives: que no va viure i va morir, que va viure fins abans d'ahir, que vivia dient que sí, que menjava romaní 
+ tema: YYY   pregunta: 		El cavaller a la guerra i... el pagès a la terra            					alternatives: el pagès a Cartagena, el pagès a la cendra, el pagès li va al darrere, el pagès porta la bandera 
+ tema: YYY   pregunta: 		El colom menja or... i caga plom            									alternatives: i caga poc, i caga un tresor, i no caga, i caga plata
+ tema: YYY   pregunta: 		El diable de vell... passava el rosari            								alternatives: resava sense rosari, passava droga, llegia el diari, es moria
+ tema: YYY   pregunta: 		El dilluns... sant Tornem-hi            										alternatives: sant Acabat, sant Tornat, és festa, toca treballar
+ tema: YYY   pregunta: 		El gos i el gat viuen... del descuidat            								alternatives: o moren, a cos de rei, de qui els cuida, molt bé
+ tema: YYY   pregunta: 		El gos va dir a l’os... o tu o jo, o un dels dos    					        alternatives: o tu o jo o cap dels dos, ni tu ni jo, jo sóc un gos, tu ets un os 
+ tema: YYY   pregunta: 		El març... marceja            													alternatives: abrileja, mai no marceja, és plàcid, temperat
+ tema: YYY   pregunta: 		El metge, vell... i el barber, jove     								        alternatives: més vell encara, andalús, amb barba, universitari
+ tema: YYY   pregunta: 		Tants com en mata la guerra... en colga la terra            					alternatives: queden a terra, van al cementiri, perden la vida, són herois de la pàtria
+----------
+
+Nivell 16:
+
+ tema: YYY   pregunta: 		Vesteix un bastó... i semblarà un senyor            							alternatives: i porta’l a la pocessó, i mai no serà un senyor, i tindràs un amic, sigues bon minyó
+ tema: YYY   pregunta: 		El pecat de la vaca... el paga el vedell  								        alternatives: el paga el toro, el paga el ramader, el paga sa mare, no paga ningú
+ tema: YYY   pregunta: 		El primer que cull la flor... s'emporta l'olor           			 			alternatives: la regala, no pot olorar, la deixa olorar, és per a ell
+ tema: YYY   pregunta: 		El que es porta a taula... és per a tothom           				 			alternatives: és per als de casa, és per als petits, és per al pare i la mare, s'ha de menjar de pressa
+ tema: YYY   pregunta: 		El que fa el boig a la primera... ho fa el savi a la darrera            		alternatives: no ho fa mai el savi, ho fa el savi a la tercera, ho fa qualsevol, millor no fer-ho
+ tema: YYY   pregunta: 		Els cargols i els peixos neixen en aigua... i moren en vi            			alternatives: i moren en aigua, i són immortals, i el cuiner els enterra, i moren al restaurant
+ tema: YYY   pregunta: 		El secret de l’Ametller, que ningú havia de saber-lo... i tothom el va saber    alternatives: i ningú no el va saber, i jo el sé, i qui el sap és l'Ametller, i tot el poble en va ple
+ tema: YYY   pregunta: 		Els testos s'assemblen... a les olles            								alternatives: a les plantes, al terrissaire, a les cassoles, a qui els rega
+ tema: YYY   pregunta: 		El temps és com la mula... mai no recula            							alternatives: mai dissimula, ara endavant ara endarrere, sempre recula, o recula o no recula 
+ tema: YYY   pregunta: 		El ventre porta... les cames           											alternatives: el cap, la panxa, el que té a dins, la persona
+ tema: YYY   pregunta: 		En Pau, en Pere... i en Berenguera            									alternatives: i el qui li va al darrere, i en Pere i en Pau, l'un va al davant i l'altre al darrere, si l'un és divertit l'altre és la pera
+ tema: YYY   pregunta: 		En Regalat... s'ha mort            												alternatives: va venir ahir, s'ha comprat un pis, viu aquí, ahir moria i avui és viu
+ tema: YYY   pregunta: 		Entre Sant Joan i Sant Pere... la millor pesquera            					alternatives: hi ha uns dies, feu el que vulgueu, no pescareu, mala és la pesquera
+ tema: YYY   pregunta: 		Estudia, que el mestre... és vell            									alternatives: és jove, et castigarà, et deixarà la seva plaça, et regalarà un llibre
+ tema: YYY   pregunta: 		Feina feta... no té destorb            											alternatives: bon destorb, no agrada a ningú, agrada a tothom, al gandul enreda
+ tema: YYY   pregunta: 		Feta la llei... feta la trampa            										alternatives: paga la trampa, no hi ha trampa, feta la sentència, la multa t'espera
+ tema: YYY   pregunta: 		Festes passades... coques menjades            									alternatives: coques començades, coques pastades, coques encomanades, coques ensucrades
+ tema: YYY   pregunta: 		Fil, fil, fil... fins a Sant Gil            									alternatives: fins a Sant Lluís, fins a Sant Nil, fins al segon pis, fins al paradís
+ tema: YYY   pregunta: 		Foc mata... foc            														alternatives: l'aigua, el que pot, el que toc, o crema el que toc
+ tema: YYY   pregunta: 		Fum i mala cara... treuen la gent de casa            							alternatives: deixen la gent a casa, alegren la casa, molesten, agraden a tothom
+ tema: YYY   pregunta: 		Gran església... pocs perdons            										alternatives: bon campanar, és de pedra, és catedral, grans perdons
+ tema: YYY   pregunta: 		Gra que no es podreix... no neix            									alternatives: no és gra ni és res, és un mal gra, és un bon gra, agrada al peix
+ tema: YYY   pregunta: 		Hisenda de molts... se la mengen els cargols            						alternatives: se la mengen tots, se la menja qui pot, no se la mengen els cargols, ni es compra ni es ven
+ tema: YYY   pregunta: 		L'hoste i el peix menut... al cap de tres dies put         				  	 	alternatives: mai no put, al primer dia ja put, al cap de tres anys put, fan molt bona olor
+ tema: YYY   pregunta: 		Ja et conec, herbeta... que et dius marduix            							alternatives: que et dius Berta, que et dius Lluís, que et dius romaní, però no sé com et dius 
+ tema: YYY   pregunta: 		L'abundància... ofega            												alternatives: és abundant, agrada a tothom, no ofega, dóna llibertat
+ tema: YYY   pregunta: 		La cabra avesada a saltar... salta i saltarà            						alternatives: mai no salta, salta o no salta, ni salta ni saltarà, és la cabra més alta
+ tema: YYY   pregunta: 		La cabra, pels seus pecats... porta els genolls pelats            				alternatives: no porta els genolls pelats, porta genolleres als genolls, porta els genolls embenats, no té genolls
+ tema: YYY   pregunta: 		La cabra, per la seva culpa... té la cua curta            						alternatives: no té cua, té llarga la cua, li penja la cua, té negra la cua
+ tema: YYY   pregunta: 		La cabra, per la seva pena... té la panxa sota l'esquena            			alternatives: no té esquena, té la panxa sobre l'esquena, ni té panxa ni té esquena, té una gran esquena
+ tema: YYY   pregunta: 		La consciència era verda... i un ase se la va menjar            				alternatives: i ha madurat, i ara és violeta, i un ase la va comprar, i un ase la fa madurar
+ tema: YYY   pregunta: 		La dona i la llonganissa... pel pebre            								alternatives: per la panxa, per l'alegria, per l'aspecte, per la cara
+ tema: YYY   pregunta: 		La feina d’en Galvana... buscar caps de setmana            						alternatives: buscar dies de feina, buscar dies de festa, intentar no treballar, buscar or
+ tema: YYY   pregunta: 		L'àguila... no caça mosques            											alternatives: no caça mosquits, no caça, caça el que pot, caça mosques
+ tema: YYY   pregunta: 		L'aigua... fa la vista clara            										alternatives: fa el vi bo, fa la llengua clara, fa la vista fosca, treu la set
+ tema: YYY   pregunta: 		La guineu, quan no les pot haver... diu que són verdes            				alternatives: diu que no són seves, diu que són madures, diu que no té gana, diu que no li agraden
+ tema: YYY   pregunta: 		La ignorància és arribada... i li han fet una gran entrada            			alternatives: i ningú li mira la cara, i tothom l'ha ignorada, i no li han fet cas, i tothom en fuig
+ tema: YYY   pregunta: 		La llengua no té ossos... però en trenca de molt grossos            			alternatives: però en podria tenir, ni falta que li fan, però serveix per parlar, però el cos en té de molt grossos
+ tema: YYY   pregunta: 		La mar com més té... més brama            										alternatives: menys brama, més contenta està, més calmada, més moguda
+ tema: YYY   pregunta: 		La mare cabra... el fill saltador            									alternatives: la filla artista, el fill músic, el pare cabrot, la filla cabrera
+ tema: YYY   pregunta: 		La mar fa forat... i tapa            											alternatives: i no tapa, i desapareix, i es calma, i brama
+ tema: YYY   pregunta: 		L'amo nou... tot ho remou            											alternatives: no fa res, res no remou, remou una mica o gens remou, és amo bo
+ tema: YYY   pregunta: 		La sal com més sala... més val            										alternatives: menys val, més cara, fa més mal, més bona és
+ tema: YYY   pregunta: 		Les festes majors porten... al ventre dolors           							alternatives: alegries al ventre, penes i alegries, a l'esquena dolors, alegries a l'esquena
+ tema: YYY   pregunta: 		Llaurem?... diu la mosca al bou            										alternatives: diu el bou a la mosca, diu el pagès al bou, diu el ruc al bou, diu un boig a un altre boig
+ tema: YYY   pregunta: 		Llenya d’alzina, vi de sarment, oli d’oliva... i pa de forment            		alternatives: i pa dolent, i llet de vaca, i res de pa, i llet de cabra
+ tema: YYY   pregunta: 		Mor el rei i mor el Papa... i de morir ningú s’escapa            				alternatives: i de morir tothom s'escapa, i qui no mor és immortal, i de morir s'escapa Déu, i qui s'escapa ja l'atraparan 
+ tema: YYY   pregunta: 		No es mou una fulla... que Déu no vulla            								alternatives: de l'arbre, que el dimoni no vulla, que el mestre no vulla, que jo no vulla
+ tema: YYY   pregunta: 		No és tard mentre... toquen hores            									alternatives: és d'hora, dorms, és de dia, no toquen hores
+----------
+
+Nivell 17:
+
+ tema: YYY   pregunta: 		No és tot u: portar banyes... o fer-les dur            				alternatives: o no portar-ne, o fabricar rellotges, o portar bous, o fer el salt al marit
+ tema: YYY   pregunta: 		No et fiïs mai d'una tropa... que porti barret de copa            	alternatives: de soldats esparracats, que no hagi fet la mili, d'infants, de l'exèrcit imperial
+ tema: YYY   pregunta: 		No hi ha drecera... sense costera            						alternatives: fora de la carretera, millor que la carretera, sense carretera, sense bufera
+ tema: YYY   pregunta: 		No hi ha olla ni olleta que no trobi... la seva tapadoreta          alternatives: la seva mareta, la seva cuinera, la seva cullera, la seva fumera
+ tema: YYY   pregunta: 		No ho crec, pare... que vós sigueu frare            				alternatives: que vós sigueu lladre, que vós sigueu ase, que vós sigueu d’Alguaire, que no sigueu frare
+ tema: YYY   pregunta: 		No vagis a Roma amb la bossa buida... ni amb la mula coixa          alternatives: ni amb la mula Francis, ni amb la bossa plena, ni amb el sarró ple, ni en avió
+ tema: YYY   pregunta: 		On aniràs, bou... que no llauris?                                	alternatives: que estiguis millor que aquí?, que et vulguin?, que no treballis?, de vacances?
+ tema: YYY   pregunta: 		Paga... que és gata            										alternatives: que és gat, que és gos, que és rata, que no és gata
+ tema: YYY   pregunta: 		Pensen els enamorats... que tothom té els ulls tapats            	alternatives: que ningú no els veu, que tothom té les orelles tapades, que tothom és suec, que tothom fa el préssec
+ tema: YYY   pregunta: 		Per Carnestoltes, totes les bèsties... van soltes            		alternatives: van en fila índia, van aparellades, van disfressades, són persones
+ tema: YYY   pregunta: 		Per la boca... mor el peix            								alternatives: mor l’humà, mor el gat, mor el gos, menja la gent
+ tema: YYY   pregunta: 		Per molt que bufi el vent... no s'apaguen les estrelles             alternatives: no cauen les estrelles, no s’apaga el Sol, no s’apaguen les espelmes, no s’encén el cel
+ tema: YYY   pregunta: 		Per morir... no cal anar de pressa            						alternatives: no cal anar a Roma, no cal anar al llit, cal anar de pressa, cal menjar cianur
+ tema: YYY   pregunta: 		Per Nadal... un pas de pardal            							alternatives: un pas de gavina, un pas de colom, un pas de galldindi, un salt de pardalt
+ tema: YYY   pregunta: 		Per Sant Andreu... pluja o neu o fred molt greu            			alternatives: plou i neva i cau pedra, ni plou ni neva, aparteu la neu, vacances a la neu
+ tema: YYY   pregunta: 		Per Sant Martí... mata el porc i enceta el vi            			alternatives: esmorza amb el teu veí, festa amb el veí, no beguis vi, s’acaba el porc i s’acaba el vi
+ tema: YYY   pregunta: 		Per Tots Sants... les olives a les mans            					alternatives: no busquis olives, no mengis olives, olives no es fan, olives i entrepans
+ tema: YYY   pregunta: 		Preu per preu... sabates grosses            						alternatives: espardenyes a mida, no pregunteu, sabates petites, sabates negres
+ tema: YYY   pregunta: 		Qual és la vida... tal és la mort            						alternatives: tal és la sardina, tal és l’espina, tal és la cosina, tal no serà la sortida
+ tema: YYY   pregunta: 		Quan el rector està sol... salta, balla i fa el que vol            	alternatives: no fa el que vol, arrenca el vol, cou la col, menja col
+ tema: YYY   pregunta: 		Quan el tonto va al mercat... el mercat ja s'ha acabat            	alternatives: fa festa, l’espera tothom, el mercat no ha començat , el mercat l’han anul·lat
+ tema: YYY   pregunta: 		Quan fou mort... el combregaren            							alternatives: el batejaren, el casaren, li van portar el dinar, ja era massa tard
+ tema: YYY   pregunta: 		Quan la gavina va a l’horta... fes foc i crema la porta            	alternatives: obre la porta, enhorabona, mal senyal, espanta-la
+ tema: YYY   pregunta: 		Quan l'alegria és a la sala... la tristor puja l'escala            	alternatives: la tristor truca per telèfon, tothom fa festa, cal preparar la salsa, tu marxa per l’escala
+ tema: YYY   pregunta: 		—Quants anys tens?... —Set i les dents            					alternatives: —Set i la panxa , —Cent, més o menys, —Ara no me’n recordo, —Setanta-set, —Dos, i les dents
+ tema: YYY   pregunta: 		—Què hem de fer?... —Vendre la casa i anar a lloguer            	alternatives: —Comprar casa i viure bé, —Vendre la casa a un estranger, —El que puguem, —Llogar un apartament a la costa
+ tema: YYY   pregunta: 		—Què fan els infants?... —El que veuen fer als grans            	alternatives: —El que veuen dels grans, —El que aprenen dels amics, —El que poden, —El que volen
+ tema: YYY   pregunta: 		—Què farem?... —Mala cara quan morirem            					alternatives: —El pallasso, —Mala cara mentre viurem, —Bona cara fins que morirem, —Riure o plorar
+ tema: YYY   pregunta: 		Que la dreta no sàpiga... què fa l’esquerra            				alternatives: qui va amb l’esquerra, què hi ha a l’esquerra, què fan els partits centristes, què fan els d’esquerres
+ tema: YYY   pregunta: 		Què mires, mussol?... Sóc un rellotge de sol            			alternatives: Sóc l’amic de la col, La teva cara de col, I a tu què t’importa?, Els ulls que tens a la cara 
+ tema: YYY   pregunta: 		Que no callarà mai... aquesta gralla?                               alternatives: aquesta discoteca?, aquest piano de cua?, aquesta trompeta de fira?, la veïna gallina? 
+ tema: YYY   pregunta: 		Que per molts anys puguem fer semblants obres... amb els mateixos manobres    alternatives: amb diferents manobres, amb les mateixes persones, amb unes altres cassoles, amb eines noves
+ tema: YYY   pregunta: 		Què sap el gat, de fer culleres, si mai ha estat... cullerer?        alternatives: ferrer?, fuster?, dispeser?, interessat en la fabricació de culleres?
+ tema: YYY   pregunta: 		Qui al cel escup... a la cara li cau            					alternatives: després s’ho troba, tot li retorna, ja sap el que li espera, té cent anys de mala sort
+ tema: YYY   pregunta: 		Qui assegura... dura            									alternatives: no dura, ja s’ho troba, va a Extremadura, és perquè no dubta
+ tema: YYY   pregunta: 		Qui bada boca es queda... sense coca            					alternatives: tota la coca, bocabadat, amb les mosques, com un badoc
+ tema: YYY   pregunta: 		Qui mana a can Ribot... l’amo o el porc?                            alternatives: l’amo o el mosso?, qui no fa res o qui fa el que pot?, la truja o el porc?, la dona o l’homenot?
+ tema: YYY   pregunta: 		Qui menja bo... caga pudent            								alternatives: caga molt, no caga, caga or, no caga quan vol
+ tema: YYY   pregunta: 		Quimeres i desenganys fan tornar... els cabells blancs            	alternatives: els caps calbs, els cabells llargs, tonto, a començar
+ tema: YYY   pregunta: 		Qui no corre... vola            									alternatives: no corre, que es quedi, no mama, plora
+ tema: YYY   pregunta: 		Qui no pot segar... espigola            							alternatives: no menja, no sega, ja segarà l’any vinent, no bat
+ tema: YYY   pregunta: 		Qui roba a un lladre... té cent anys de perdó            			alternatives: no va a la presó, surt a la tele, és Robin Hood, té cent anys de presó
+ tema: YYY   pregunta: 		Qui té un bon nas... té un bon detràs            					alternatives: té poc detràs, fa perfums, té bona panxa, tot ho flaira
+ tema: YYY   pregunta: 		Rient, rient... es va morint la gent            					alternatives: tothom riu, la gent fa la viu-viu, va vivint la gent, tothom està content
+ tema: YYY   pregunta: 		S’agafen més mosques amb una gota de mel... que amb un barril de vinagre            alternatives: que amb un barril de petroli, que amb una gota d’oli, que amb una xarxa, que amb un litre de fel
+ tema: YYY   pregunta: 		Salomó de vell es moria... i d’un infant aprenia            		alternatives: i ningú li feia cas, i encara aprenia, i de ningú no aprenia , i el van enterrar
+ tema: YYY   pregunta: 		Santa Llúcia la Bisbal... tretze dies per Nadal            			alternatives: tretze dies per Quaresma, cent dies per Carnaval, deu dies per Nadal, tretze dies fent l’animal
+ tema: YYY   pregunta: 		Santi di guixi... que no cagui ni pixi            					alternatives: que cagui i pixi, a l’altar de l’esglisi, millori que de fusti, curen tots els vicis
+ tema: YYY   pregunta: 		Seny, seny, que de cervell... en venen            					alternatives: no en tenim, no en venen, en té tothom, en manca
+----------

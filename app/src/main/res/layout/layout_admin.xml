@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:id="@+id/layout_login"
+        android:gravity="center_vertical"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:text="@string/nome"
+            android:background="#eeeeee"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical" />
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:id="@+id/user"
+            android:ems="10"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:text="bigbangparty" />
+        <Space
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"/>
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:text="@string/password"
+            android:gravity="center_vertical"
+            android:background="#eeeeee"/>
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:inputType="textPassword"
+            android:id="@+id/password"
+            android:ems="10"
+            android:singleLine="true"
+            android:ellipsize="end"
+            android:maxLines="1" />
+        <Space
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.5"/>
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="@string/login"
+            android:id="@+id/bLogin"/>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="5"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:text="@string/adminWarning"
+                android:layout_margin="32px" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
